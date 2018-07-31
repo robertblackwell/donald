@@ -1,0 +1,21 @@
+<div class='letter'>
+<h2>Sand Hill,
+10th February 1918</h2>
+
+<p>My Darling Wife and Bonny Son</p>
+
+<p>Sunday afternoon and no little wifey or son to go walking with. It's a beautiful afternoon, would it not be grand kiddie if we three could be going for a stroll along some of the beautiful English lanes. Bet there would be something more then walking doing eh sweetheart. There are several very fine walks about here, but give me the Sunday afternoon walk round old Maitland, it will do me. </p>
+
+<p>Yesterday we had a big muster parade for the purpose of finding all the spare parts. A couple of hundred were caught, men who attached themselves to staff companys, simply did nothing but walked round the camp, playing cards and drinking etc. 
+Went to the pictures last night very good indeed, very likely will go again tonight of course having a pass, one is able to do it well. I'm doing well for meals, feeding on the best of the land, as long as it lasts things will be “good eh”. </p>
+
+<p>No mail of any description received this week, have been doing very well for letters up till lately so to miss for a week is too bad. There is mail in so certain that there will be letters from my darling sweetheart. Have not heard anything lately regarding our camp moving, appears as if the thing has fallen through. This letter should reach you  about 11th March, kiddie dear I wish you “Many Happy Returns of the Day, with all my heart. Surely to goodness I'll be home for your next birthday, then, dear we will have to make up for the birthdays I've been away, what say you dearest. Georgie is still in his job in the Q.M. store and going strong. He is looking well and keeping best of health. </p>
+
+<p>Things are very quiet over at the front, great things are expected any day, but by todays papers they hear that Fritz won't be ready to take the offensive for another fortnight. Anyhow the month of February will see some of the worst fighting. The weather over there is good, it's to be sincerely hoped  that it continues so. No word from Keith lately, going to send him some cigarettes tomorrow. Jerry said he had practically slept between sheets the whole time he's been in France. Boards at a private houses, on one occasion he paid 5 francs and on another t 3 francs per week. Had a room to himself and bought the provisions to the old lady who did all the cooking, treated him like a “mother” he's been having a glorious time.</p>
+
+<p>Well now ring off dear, with love kisses and embraces to my darling wife and bonny son with kisses galore and oceans of love.</p>
+<p>Your ever loving husband and father</p>
+<p>Don</p>
+<p>XXXXXXXXXXXXXXXXX to my two darlings</p>
+
+</div>

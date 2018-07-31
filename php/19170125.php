@@ -1,0 +1,28 @@
+<div class='letter'>
+<h2>Sandhill Camp, 25th January 1917</h2>
+
+<p>Dear Father</p>
+
+<p>Received your very welcomed letter dated 11th of November about a fortnight ago. I'm still going strong in this camp although things are very unsettled this week. Hundreds have been warned for draft. We are only supposed to remain here three weeks, then overseas, but of course these orders can be twisted when one is in the know. Anyhow my time for leaving may come any day. </p>
+
+<p>Keith is in England at present on 14 days leave. We have been together for a few hours. I've just returned from a week trip to Edinburgh. Keith was to have come with me but somehow he was nowhere to be seen when the train was due to leave. </p>
+
+<p>Scotland is a great place and needless to say I had the time of my life. Visited all places of interest including Edinburgh Castle, Holyrood Palace, St Giles’ Cathedral, Forth Bridge etc etc. Went to Leith and saw a naval ship building yard. The trip up the Firth of Forth was very fine. Also had a day and night in London. Looking forward to my next leave, Scotland will do me. </p>
+
+<p>Love to all. Hope all are okay. Love to Neita and Bubs.</p>
+
+<p>Your sincere son-in-law Don</p>
+
+<h2>Sandhill Camp, 25th January 1917</h2>
+
+<p>My darling wife and funny son</p>
+
+<p>Well kiddie it's over a week since I've written, very sorry, but I'm sure you'll forgive me when I tell you all. Last Sunday week I received a wire from  Keith stating that he was in Blighty on 14 days leave and that he was coming out to the camp on the Monday. He put in an appearance about 5 o'clock in the afternoon. Cannot tell you how pleased I was to see him, he is looking grand, never saw him looking better. After a good talk we went for a walk up to see George. You ought to have seen the look on George's face when Jerry went up to him. They had so much to say that they did not know where to start. After another talk we returned to our hut had supper, then turned into bed together. It .was the early hours in the morning before we got to sleep. Jerry has been having the time of his life in France, does not wish to come back to England, says France will do him. Early next morning he left the London where he expected to have a good time. Darling I've just returned from a weeks trip to Edinburgh. Had the time of my life. Keith was coming up with me, had to meet me last Thursday night at the station, intending to go up together, but very sorry to say he failed to put in an appearance. Anyhow I went on without him, expecting him up next day, but up to the present I've not heard another word from him. He must be having a good time somewhere, suppose he's got a girl somewhere. Kiddie is a great place, the Scotch people grand. I stopped at the Crown Hotel as soon as the people knew my name they could not do enough for me. Visited all places of interest, Edinburgh Castle, Holyrood Palace, Giles Cathedral, and up to the top of the Scots monument etc etc. Have a number of postcards which of course dear I'll send along. On Sunday I went for a trip up the Firth of Forth. The bridge is wonderful. While there saw the “Australia and New Zealand”. They had just come in from the North Sea for a 14 day overhaul. Went to all the theatres to be sure. Always had a ‘box’ did things in grand style. I knocked about with two Scotch commercial travellers, who had nothing to do, so took me around. Scotland will do me kiddie. Wait darling till I take it you and Bonny Bubs for a trip to Scotland. Returned to London yesterday morning, had the day there, went to the theatre in the afternoon and witnessed “The Maid of the Mountains” simply glorious. Returned to camp this morning, so dear I'm dead tired. Made several attempts while on leave to write but as  sure as I’d start my mates would get hold of me and take me out. They would not let me pay for a thing. If I attempted to pay they would go crook, gave me a royal time, and fine chaps they were. But  had fought in France and had got their discharge.</p>
+
+<p>Darling I bought Bubs a mug made out of the real Scottish horn and Silver mounted will post it  in a day or so. Sweetheart I’d have  given all I possess, could I have had my two darlings with me, what a grand time we would have had. Never mind wait until I return then things will be doing, eh kiddie. Enclosing a couple of postcards. While away on leave, a number lost their jobs, but yours truly, is still going strong. Great alterations are taking place in camp. Everybody is wondering who will be next. Will write again in a day or so giving more particulars of my trip. </p>
+
+<p>How is darling Bubs getting on and how is wifey dear. Sincerely hope both are just okay. Love kisses and embraces to my two darlings from your ever own loving hubby and father with scores and scores of kisses and embraces.   </p>
+
+<p>XXXXXXXXXXXXXXXXXXXX, Don</p>
+
+</div>
