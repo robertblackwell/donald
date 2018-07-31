@@ -23,7 +23,9 @@ div.frontcover {
   height: 100%; 
 }
 
+/* max size of footnote area */
 
+@page { @footnote { max-height: 15cm } }
 
 /* styles for the right hand spread
 Bottom left we display the title of the book, bottom right the page using a CSS counter, top right the content of the current chapter */
@@ -141,6 +143,11 @@ figcaption:before {
   }
 }
 
+p {
+  orphans : 3;
+  widows : 3;
+}
+
 h1,h2,h3,h4,h5 {
 	font-weight: bold;
 	page-break-after: avoid;
@@ -198,6 +205,6 @@ blockquote {
   background-color: #eeeeee;
   padding-left:10px;
 }
-.letter {
+.xletter {
   page-break-inside: avoid;
 }

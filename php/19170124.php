@@ -23,15 +23,15 @@
 
 <p>Your ever own and loving husband</p>
 
-<pre><code>            Don
-</code></pre>
+<p>Don
+</p>
 
 <p>PS I started numbering my letters but forgot a number so left it off. Don't think it is necessary for me to number the letters as they are sure to arrive at there destination.</p>
 
-<pre><code>    Love and kisses 
+<p>Love and kisses</p> 
 
-        Hubby
-</code></pre>
+<p>Hubby
+</p>
 
 <p>How is little Max getting on?</p>
 

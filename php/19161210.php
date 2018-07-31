@@ -18,15 +18,16 @@ Cape Town</pre>
 
 <p>The whole of the days entertainment, was carried out by the Australian and English ladies, not by the Cape Town ladies they have no time for Australians. After leaving the hall we made our way back to the boat. On the way we past scores of black women, talk about morals, their carrying on could not be placed on paper. I've often heard of them carrying on but these women beat the band. We should have left port 7 o’clock, but when the time came for sailing there  were about 200 deserters, they got all but 28, and they are still missing. Eventually got away about 11 o’clock. The stay at Cape Town was very good, but what we wanted was leave, it did not matter what they did for us, the boys was very disappointed and will forever have a bad word for the officers who were absolutely too blame.</p>
 <p>Will enclose a rough plan of the hall where you will find me in the photo, also I am well in the front. Out trip since leaving has been very tame, beautiful weather and calm sea. We are in the tropics at present but it's unusually cool, suppose we'll strike hot weather in a day or so. Enter the danger zone next week, then for an anxious time. On the 5th passed a large passenger steamer bound for Cape Town. Darling the sea water soap is a great boom, wish I had more of it. On Wednesday had a tooth out. One dentist would not have a go at it, frightened it would snap so gave the job to another. He did not like the job either. Anyhow it came out whole and no pain. The dentist was congratulated by all the other medical men and the dentist told me it scared him and to think myself the luckiest men on the boat. Anyhow I'm alright now. Regarding my vaccination had a sore arm but not too bad, did not swell only got tops on the parts scratched. It's okay now.</p>
-<p>Last night there was a grand concert, absolutely the best it's the last now until we reach the old Blighty*.
-Went to communion this morning at 6:30 also to church at 10am may go again tonight. Suppose darling you say I'm getting good but not before time.</p> 
+<p>Last night there was a grand concert, absolutely the best it's the last now until we reach the old Blighty
+		<span class="fn">Blighty, or Old Blighty, means England</span>.</p>
+<p>Went to communion this morning at 6:30 also to church at 10am may go again tonight. Suppose darling you say I'm getting good but not before time.</p> 
 <p>This week has been devoted as far as sport is concerned to boxing and tug of war. 
 Sweetheart at Cape Town I sent you a packet of postcards 12 in all they are of Durban. Let me know if you receive them. In two other envelopes I sent you several copies of  “Benalla Jim”. They are very poor papers but will give you some idea of active service papers. Have a look at number seven there is something there which I am sure will interest my dear wife. I've marked it kiddie. Owing to health reasons sweetheart I've taken on smoking a pipe and cigars. Very heavy smoking too, dear will explain reasons later, when I arrive in the old Blighty. This won't be posted until we arrived in the Blighty so suppose you'll get both letters together. Enclosing a photo of your old hubby but it is very poor, also enclosing two silver leaves. There are only three trees of this class in the world and they are on Table Mountain. The trees bare three times a year hence the leaves are fairly plentiful in Cape Town.</p>
 
 <p>Well dear old girl I'll now ring off for a few days hoping you are in the best of health. How are things progressing with you dear wife.</p>
 <p>Love and kisses to my darling wife from your ever true and loving hubby.</p>
-<p>									Don</p>
+<p>	Don</p>
 <p>Also enclosing another photo. Do you think I'm getting fatter, they all say I am? </p>
 <p>Love to my darling.</p>
 </div>
-<div class="fnote"><p>*Blighty means England</p></div>
+<!--div class="fnote"><p>*Blighty means England</p></div-->

@@ -9,14 +9,14 @@
 Saw by today's papers that the Pt Nicholson has been sunk. All the troops were off, so that is good. Food is getting very dear in England, and Germany from all accounts is in a very bad way. A man at the table told me that one English paper declares that the war will be over in six weeks time and if not, for every day over that time will give a certain sum to hospitals etc. I don't believe it.  But would it not be great back so soon with you darling. Anyhow time will come. Will now close for the mail.
 Love and kisses to my dear wife from your loving husband</p>
 
-<pre><code>                            Don
-</code></pre>
+<p>Don
+</p>
 
 <p>Have been thinking all day what joy it will be when we meet dearest, on the wharf on my return, the three of us. The sooner the better. Love kisses and embraces to my darling wife.</p>
 
-<pre><code>    Love
+<p>Love</p>
 
-      Don
-</code></pre>
+<p>Don
+</p>
 
 </div>

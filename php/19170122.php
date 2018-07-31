@@ -16,8 +16,7 @@ Mr. Crowley said after what he has seen on this side he would not allow his wife
 
 <p>Tons of love and kisses to my darling wife from your loving husband.</p>
 
-<pre><code>                            Don
-</code></pre>
+<p>Don</p>
 
 <p>Keep the writing up I look forward to your letters everyday.</p>
 

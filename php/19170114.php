@@ -9,7 +9,8 @@
 
 <p>There is a word used all day long by the men here  and it is ‘blighty’. I suppose it will reach Australia shortly. All new songs contain the word. Has several meanings, ‘wound,’’London, and a soldiers “home sweet home”. You are always hearing the expressions, “wait till I get a blighty” or ” take me back to blighty”  and such like. The word is of Indian origin.</p>
 
-<p>Mr Crowly has only seen his wife three times since she arrived and he has come to the decision that it would have been better for her to have remained at home. Mrs Crowley’s two sisters are returning to Australia as soon as possible. London, in fact England is no place at present for young girls. Too many soldiers about. They are catching the first boat home.
+<p>Mr Crowly has only seen his wife three times since she arrived and he has come to the decision that it would have been better for her to have remained at home. Mrs Crowley’s two sisters are returning to Australia as soon as possible. London, in fact England is no place at present for young girls. Too many soldiers about. They are catching the first boat home.</p>
+<p>
 Walking home through the snow tonight I heard a very familiar sound, it was the bells of the church at Durrington ringing. They chime the same as St Pauls. It sounded lovely. What would I give to be walking to St Pauls at night with you sweetheart.</p>
 
 <p>How are you getting on dear. Hope you are well. Keep your spirits up, wait until you are a mother, eh what . Mum mum mum can imagine you dearest being called that.</p>
@@ -18,13 +19,12 @@ Walking home through the snow tonight I heard a very familiar sound, it was the 
 
 <p>Love kisses and embraces to my dear little wife from your own loving husband.</p>
 
-<pre><code>                            Don
-</code></pre>
+<p>Don
+</p>
 
 <p>PS All the talk today is America's attitude regarding the war and the great poisoning case of Lloyd George ( Prime Minister) and Henderson ( Leader of the Labour Party).</p>
 
-<ul>
-<li>From  “The Village Blacksmith” by Longfellow 1842</li>
-</ul>
+<!-- FIXME - what is this refering to--><p>FIXME</p>
+<p>From  “The Village Blacksmith” by Longfellow 1842</p>
 
 </div>

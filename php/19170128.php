@@ -17,10 +17,9 @@
 
 <p>Love, kisses and embraces to my darling wife from your own true hubby.</p>
 
-<pre><code>            Tons of kisses  
-
-                    Don
-</code></pre>
+<p>Tons of kisses</p>  
+<p>Don
+</p>
 
 <p>I am enclosing the letter received, will have to destroy it after a while so I think it would be better in your hands dearest. Love to self and Little Mac from hubby and father. Eh what. Eh what.</p>
 

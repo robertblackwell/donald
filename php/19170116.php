@@ -12,7 +12,6 @@ Crowley just came in and told me he just received a wire from his wife. She is s
 
 <p>Love and kisses my darling wife from your loving husband.</p>
 
-<pre><code>                        Don
-</code></pre>
+<p>Don</p>
 
 </div>
