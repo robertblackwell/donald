@@ -1,4 +1,4 @@
-<?php //include php code root here ?>
+<?php include dirname(__FILE__)."/php/render.php"; ?>
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 	<head>
@@ -28,19 +28,20 @@
 		</div>
 
 		<h1 id="ch1" class="chapter">Introduction</h1>
-			<?php include dirname(__FILE__)."/php/introduction.php"; ?>
+			<?php include dirname(__FILE__)."/letters/introduction.php"; ?>
 
 		<!--img src="images/z025.png" /-->
 
 		<div class="ch_wrap">
 			<h1 id="ch2" class="chapter">1916</h1>
 				<?php 
-					include dirname(__FILE__)."/php/19161030.php";
-					include dirname(__FILE__)."/php/19161114.php";
-					include dirname(__FILE__)."/php/19161210.php";
-					include dirname(__FILE__)."/php/19161220.php";
-					include dirname(__FILE__)."/php/19161225.php";
-					include dirname(__FILE__)."/php/19161229.php";
+					Render::letter ( dirname(__FILE__)."/letters/19161030.php" );
+					Render::letter ( dirname(__FILE__)."/letters/19161114A.php");
+					Render::letter ( dirname(__FILE__)."/letters/19161114B.php");
+					Render::letter ( dirname(__FILE__)."/letters/19161210.php");
+					Render::letter ( dirname(__FILE__)."/letters/19161220.php");
+					Render::letter ( dirname(__FILE__)."/letters/19161225.php");
+					Render::letter ( dirname(__FILE__)."/letters/19161229.php");
 				?>
 		</div>
 
@@ -51,130 +52,131 @@
 		<div class="ch_wrap">
 			<h1 id="ch3" class="chapter">1917</h1>
 				<?php
-				include dirname(__FILE__)."/php/19170101.php";
-				include dirname(__FILE__)."/php/19170107.php";
-				include dirname(__FILE__)."/php/19170111.php";
-				include dirname(__FILE__)."/php/19170113.php";
-				include dirname(__FILE__)."/php/19170114.php";
-				include dirname(__FILE__)."/php/19170116.php";
-				include dirname(__FILE__)."/php/19170122.php";
-				include dirname(__FILE__)."/php/19170123.php";
-				include dirname(__FILE__)."/php/19170124.php";
-				include dirname(__FILE__)."/php/19170125.php";
-				include dirname(__FILE__)."/php/19170128.php";
-				include dirname(__FILE__)."/php/19170128P.php";
-				include dirname(__FILE__)."/php/19170201.php";
-				include dirname(__FILE__)."/php/19170206.php";
-				include dirname(__FILE__)."/php/19170212.php";
-				include dirname(__FILE__)."/php/19170107.php";
-				include dirname(__FILE__)."/php/19170111.php";
-				include dirname(__FILE__)."/php/19170113.php";
-				include dirname(__FILE__)."/php/19170114.php";
-				include dirname(__FILE__)."/php/19170116.php";
-				include dirname(__FILE__)."/php/19170122.php";
-				include dirname(__FILE__)."/php/19170123.php";
-				include dirname(__FILE__)."/php/19170124.php";
-				include dirname(__FILE__)."/php/19170125.php";
-				include dirname(__FILE__)."/php/19170128.php";
-				include dirname(__FILE__)."/php/19170128P.php";
-				include dirname(__FILE__)."/php/19170201.php";
-				include dirname(__FILE__)."/php/19170206.php";
-				include dirname(__FILE__)."/php/19170212.php";
-				include dirname(__FILE__)."/php/19170213.php";
-				include dirname(__FILE__)."/php/19170215.php";
-				include dirname(__FILE__)."/php/19170216.php";
-				include dirname(__FILE__)."/php/19170220.php";
-				include dirname(__FILE__)."/php/19170227.php";
-				include dirname(__FILE__)."/php/19170304.php";
-				include dirname(__FILE__)."/php/19170305.php";
-				include dirname(__FILE__)."/php/19170308.php";
-				include dirname(__FILE__)."/php/19170311.php";
-				include dirname(__FILE__)."/php/19170314.php";
-				include dirname(__FILE__)."/php/19170318.php";
-				include dirname(__FILE__)."/php/19170319.php";
-				include dirname(__FILE__)."/php/19170323.php";
-				include dirname(__FILE__)."/php/19170325.php";
-				include dirname(__FILE__)."/php/19170328.php";
-				include dirname(__FILE__)."/php/19170402.php";
-				include dirname(__FILE__)."/php/19170405.php";
-				include dirname(__FILE__)."/php/19170407.php";
-				include dirname(__FILE__)."/php/19170409.php";
-				include dirname(__FILE__)."/php/19170413.php";
-				include dirname(__FILE__)."/php/19170416.php";
-				include dirname(__FILE__)."/php/19170417.php";
-				include dirname(__FILE__)."/php/19170419.php";
-				include dirname(__FILE__)."/php/19170426.php";
-				include dirname(__FILE__)."/php/19170427.php";
-				include dirname(__FILE__)."/php/19170431.php";
-				include dirname(__FILE__)."/php/19170513.php";
-				include dirname(__FILE__)."/php/19170605.php";
-				include dirname(__FILE__)."/php/19170606.php";
-				include dirname(__FILE__)."/php/19170607.php";
-				include dirname(__FILE__)."/php/19170610.php";
-				include dirname(__FILE__)."/php/19170615.php";
-				include dirname(__FILE__)."/php/19170616.php";
-				include dirname(__FILE__)."/php/19170619.php";
-				include dirname(__FILE__)."/php/19170621.php";
-				include dirname(__FILE__)."/php/19170624.php";
-				include dirname(__FILE__)."/php/19170626.php";
-				include dirname(__FILE__)."/php/19170701.php";
-				include dirname(__FILE__)."/php/19170704.php";
-				include dirname(__FILE__)."/php/19170816.php";
-				include dirname(__FILE__)."/php/19171009.php";
-				include dirname(__FILE__)."/php/19171015.php";
-				include dirname(__FILE__)."/php/19171021.php";
-				include dirname(__FILE__)."/php/19171023.php";
-				include dirname(__FILE__)."/php/19171023B.php";
-				include dirname(__FILE__)."/php/19171025.php";
-				include dirname(__FILE__)."/php/19171029.php";
-				include dirname(__FILE__)."/php/19171029B.php";
-				include dirname(__FILE__)."/php/19171031.php";
-				include dirname(__FILE__)."/php/19171104.php";
-				include dirname(__FILE__)."/php/19171105.php";
-				include dirname(__FILE__)."/php/19171110 B.php";
-				include dirname(__FILE__)."/php/19171110.php";
-				include dirname(__FILE__)."/php/19171113.php";
-				include dirname(__FILE__)."/php/19171115.php";
-				include dirname(__FILE__)."/php/19171119.php";
-				include dirname(__FILE__)."/php/19171125.php";
-				include dirname(__FILE__)."/php/19171128.php";
-				include dirname(__FILE__)."/php/19171202.php";
-				include dirname(__FILE__)."/php/19171205.php";
-				include dirname(__FILE__)."/php/19171209.php";
-				include dirname(__FILE__)."/php/19171219.php";
-				include dirname(__FILE__)."/php/19171223.php";
-				include dirname(__FILE__)."/php/19171225.php";
+				 Render::letter ( dirname(__FILE__)."/letters/19170101.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170107.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170111.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170113.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170114.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170116.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170122.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170123.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170124.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170125.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170128.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170128P.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170201.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170206.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170212.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170107.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170111.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170113.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170114.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170116.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170122.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170123.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170124.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170125.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170128.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170128P.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170201.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170206.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170212.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170213.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170215.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170216.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170220.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170227.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170304.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170305.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170308.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170311.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170314.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170318.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170319.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170323.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170325.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170328.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170402.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170405.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170407.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170409.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170413.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170416.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170417.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170419.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170426.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170427.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170431.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170513.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170605.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170606.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170607.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170610.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170615.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170616.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170619.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170621.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170624.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170626.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170701.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170704.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19170816.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171009.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171015.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171021.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171023.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171023B.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171025.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171029.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171029B.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171031.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171104.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171105.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171110 B.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171110.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171113.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171115.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171119.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171125.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171128.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171202.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171205.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171209.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171219.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171223.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171225A.php");
+				 Render::letter ( dirname(__FILE__)."/letters/19171225B.php");
 			?>
 		</div>
 
 		<div class="ch_wrap">
 			<h1 id="ch4" class="chapter">1918</h1>
 				<?php
-					include dirname(__FILE__)."/php/19180106.php";
-					include dirname(__FILE__)."/php/19180111.php";
-					include dirname(__FILE__)."/php/19180113.php";
-					include dirname(__FILE__)."/php/19180125.php";
-					include dirname(__FILE__)."/php/19180129.php";
-					include dirname(__FILE__)."/php/19180202.php";
-					include dirname(__FILE__)."/php/19180203.php";
-					include dirname(__FILE__)."/php/19180207.php";
-					include dirname(__FILE__)."/php/19180210.php";
-					include dirname(__FILE__)."/php/19180217.php";
-					include dirname(__FILE__)."/php/19180224.php";
-					include dirname(__FILE__)."/php/19180226.php";
-					include dirname(__FILE__)."/php/19180306.php";
-					include dirname(__FILE__)."/php/19180316.php";
-					include dirname(__FILE__)."/php/19180316B.php";
-					include dirname(__FILE__)."/php/19180320.php";
-					include dirname(__FILE__)."/php/19180328.php";
-					include dirname(__FILE__)."/php/19180917.php";
-					include dirname(__FILE__)."/php/19181020.php";
-					include dirname(__FILE__)."/php/19181022.php";
-					include dirname(__FILE__)."/php/19181023.php";
-					include dirname(__FILE__)."/php/19181101.php";
-					include dirname(__FILE__)."/php/19181111.php";
-					include dirname(__FILE__)."/php/19181116.php";
-					include dirname(__FILE__)."/php/19181120.php";
+					 Render::letter ( dirname(__FILE__)."/letters/19180106.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180111.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180113.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180125.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180129.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180202.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180203.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180207.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180210.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180217.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180224.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180226.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180306.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180316.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180316B.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180320.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180328.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19180917.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19181020.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19181022.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19181023.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19181101.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19181111.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19181116.php");
+					 Render::letter ( dirname(__FILE__)."/letters/19181120.php");
 				?>
 		</div>
 				<!--blockquote><p>
@@ -190,21 +192,21 @@
 		<div class="ch_wrap">
 			<h1 id="australian_camps" class="chapter">Australian Army Camps in Britain</h1>
 				<?php
-					include "php/australian_camps.php";
+					include "letters/australian_camps.php";
 				?>
 		</div>
 
 		<div class="ch_wrap">
 			<h1 id="casualties" class="chapter">War Casualty</h1>
 				<?php 
-					include "php/war_casualties.php";
+					include "letters/war_casualties.php";
 				?>
 		</div>
 
 		<div class="ch_wrap">
 			<h1 id="wedding" class="chapter">Wedding</h1>
 				<?php
-					include "php/wedding.php";
+					include "letters/wedding.php";
 				?>	
 		</div>
 
