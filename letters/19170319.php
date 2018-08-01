@@ -21,7 +21,6 @@
 
 <p>Hoping that the war will soon end so that I can return to “my own” with tons and tons of kisses to my darling wife from your ever own devoted and loving husband.</p>
 
-<pre><code>                            Don  XXXXXXXXXX
-</code></pre>
+<p>Don  XXXXXXXXXX</p>
 
 </div>

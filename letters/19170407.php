@@ -14,8 +14,7 @@ Yesterday Good Friday was a day of hard work. Sweetheart receive your weekly Mer
 
 <p>How are you getting on. By the time you receive this letter, the time for the great event will be very close. The sooner it is over the better, no doubt you say. Keep your pecker up I'm sure everything will be okay. When you are writing tell me all dearest and let me know by cable the news of the great event, absolutely as soon as possible. Fancy being called mum and dad. That's what we used to say but it's getting very close to reality now. You'll make a good mother too for certain, they is a chance of you spoiling Little Mac but who would not, what it will be the greatest child in the world eh dearest. Anxiously waiting for your letters dear I suppose  they will come in due course. Well darling I'll now ring off going to drop a line home. Love and oceans of kisses to my darling wife from your loving husband with oceans and oceans of kisses. xxxxxxxxxxxxxxx </p>
 
-<pre><code>            Don
-</code></pre>
+<p>Don</p>
 
 <p>It's jolly cold tonight have no fire. A cuddle would be just grand but what a cuddle we will have darling whether hot or cold for my return, that will be the time kiddie. Au revoir for tonight. </p>
 

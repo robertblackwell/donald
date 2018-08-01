@@ -19,18 +19,16 @@
 
 <p>Darling, there is one thing certain if our baby Is a boy he will never be a soldier. That's what I saying now. Well sweetheart  I am over pleased to know how well you are, good health is the secret of a successful  ……… great event… so keep in good health darling. Look after yourself, take great care of yourself and Mac until I return then everything will be just the thing, especially as soon as well as we get into our home. Will now close darling, I'm feeling just the thing. We've tons and tons of kisses to my loving wife from your ever own and loving husband.</p>
 
-<pre><code>                        Don
-</code></pre>
+<p>Don
+</p>
 
 <p>Kisses from here around the world a couple of times then to my darling XXXXXXXXXXXXX</p>
 
-<pre><code>                        Love Don
-</code></pre>
+<p>Love Don
+</p>
 
 <p>Have just received a  tin of biscuits, simply great, had a feed before going to bed. Also I received the Sydney Mail.</p>
 
-<ul>
-<li>I believe Pata  and boss refer to Don’s own father.</li>
-</ul>
+<p>I believe Pata  and boss refer to Don’s own father.</p>
 
 </div>

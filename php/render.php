@@ -13,6 +13,18 @@ class Transformer
     	$inner = trim($tmp_dom->saveHTML());
     	return $inner;
 	}
+	public static function format_salutation($n, $tab_prefix)
+	{
+		$raw = $n->nodeValue;
+		$a = explode(",", $raw);
+		$res = "\n{$tab_prefix}<div class='salutation'>\n";
+		foreach($a as $s) {
+			$s2 = trim($s);
+			$res .= "{$tab_prefix}\t<span class='lh_el'>$s2</span>\n";
+		}
+		$res .= "{$tab_prefix}</div>\n";
+		return $res;
+	}
 	public static function transform_one_letter($letter_node)
 	{
 		$debug = false;
@@ -21,14 +33,20 @@ class Transformer
 		$p = [];
 		$h2 = null;
 		$nodes = $letter_node->childNodes;
-		$html_text = "\n<div class='letter'>\n\t<div class='letter_head'>\n";
+		$html_text = "\n<div class='letter'>";
+		$html_text = "\n\t<div class='letter_head'>\n";
 
 		foreach( $nodes as $n) 
 		{
 			if ($debug) print "name: " . $n->nodeName . " value : [".  trim($n->nodeValue) . "] value_length : ". strlen(trim($n->nodeValue)) . "  \n";
 			if($n->nodeName == "h2" ) {
 				$h2 = $n;
-				$html_text .= "\t\t<div><h2>This is the modified header</h2>" . self::inner_html($n) . "\n\t\t</div>\n";
+				
+				$salutation = self::format_salutation($n, "\t\t")
+				;
+				// $html_text .= "\t\t<div><h2>This is the modified header</h2>" . self::inner_html($n) . "\n\t\t</div>\n";
+				$html_text .= $salutation; 
+
 			} else if ($n->nodeName == "p") {
 				if(count($p) == 0 ) {
 					$html_text .= "\t\t" . self::inner_html($n) . "\n\t</div><!-- end class='letter_header'-->\n";
@@ -39,7 +57,14 @@ class Transformer
 				$p[] = $n;
 			} else if ($n->nodeName == "#text") {
 
+			} else if($n->nodeName == "#comment") {	
+				$html_text .= "\n".self::inner_html($n)."\n";
+			} else if ($n->nodeName == "pre") {
+				$html_text .= "\n\n" . self::inner_html($n) ."\n\n";
+			} else if ($n->nodeName == "blockquote") {
+				$html_text .= "\n\n" . self::inner_html($n) ."\n\n";
 			} else {
+
 				throw new \Exception("unexpected node name " . $n->nodeName);
 			}
 
@@ -110,7 +135,7 @@ class Transformer
 		if ($debug) print_r($nodes);
 
 		if (count($nodes) != 1) 
-			throw new \Exception("letter has too many top nodes");
+			throw new \Exception("letter has too many top nodes : " . $file_name);
 		try {
 			return self::transform_one_letter($nodes[0]);
 		} catch(\Exception $e) {

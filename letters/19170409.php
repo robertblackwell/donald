@@ -15,10 +15,9 @@
 
 <p>They is no more to write about at present kiddie so I think I’d better ring off. I'm extremely pleased to hear you are keeping in the best of health and everything is moving along smoothly for the great event. You have no need to worry, love everything will be okay and after. it's all over we'll see Neita McDonald a very happy and fond mother. Then wait until dad comes home, that will be the time. Well now sweetheart will now say au revoir, love, kisses and embraces to my darling wife. Tons of love.</p>
 
-<pre><code>        From you own hubby
+<p>From you own hubby</p>
 
-            Don
-</code></pre>
+<p>Don</p>
 
 <p>XXXXXXXXXXXXXXXXXXXXXXX</p>
 

@@ -19,8 +19,6 @@
 
 <p>Don</p>
 
-<ul>
-<li>Definition of bosker. slang, Australia. : first-rate, excellent.</li>
-</ul>
+<p>Definition of bosker. slang, Australia. : first-rate, excellent.</p>>
 
 </div>

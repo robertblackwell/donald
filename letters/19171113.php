@@ -11,9 +11,7 @@
 
 <p>XXXXXXXXXXXXXXXXXXXXXXXXX                   Don</p>
 
-<ul>
-<li>Sand Hill (Longbridge Deverill)
-Situated close to the larger camp at Sutton Veny, Sand Hill camp was built in 1914 to accommodate infantry units. Australian troops arrived at Longbridge Deverill in October 1917, when their Overseas Training Brigade was moved from Perham Down and established there to train soldiers who had recovered from illness and wounds for a return to active service.</li>
-</ul>
+<p>Sand Hill (Longbridge Deverill)</p>
+<p>Situated close to the larger camp at Sutton Veny, Sand Hill camp was built in 1914 to accommodate infantry units. Australian troops arrived at Longbridge Deverill in October 1917, when their Overseas Training Brigade was moved from Perham Down and established there to train soldiers who had recovered from illness and wounds for a return to active service.</p>
 
 </div>

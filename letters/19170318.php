@@ -17,10 +17,9 @@ Well darling there's no more news at present so will ring off for the time being
 
 <p>Will now ring off sweetheart, love and kisses galore to my dearest wife with fond embraces from your ever own and loving husband, with endless kisses and embraces.</p>
 
-<pre><code>                        Hubby
+<p>Hubby</p>
 
-                          Don
-</code></pre>
+<p>Don</p>
 
 <p>*Images of French machines planes Maurice Farman</p>
 

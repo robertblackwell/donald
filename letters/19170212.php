@@ -14,9 +14,7 @@
 
 <p>Don</p>
 
-<ul>
-<li>Knock into a cocked hat’? means  to beat severly.
-Of course, 'knocked into a cocked hat' only makes any sense if you know what cocked hats are. These were hats, popular at the end of the 18th century, that had turned up (that is, cocked) brims. They were usually tricorn (that is, three-cornered) hats and were often worn as part of some form of regalia.</li>
-</ul>
+<p>Knock into a cocked hat’? means  to beat severly.
+Of course, 'knocked into a cocked hat' only makes any sense if you know what cocked hats are. These were hats, popular at the end of the 18th century, that had turned up (that is, cocked) brims. They were usually tricorn (that is, three-cornered) hats and were often worn as part of some form of regalia.</p>
 
 </div>

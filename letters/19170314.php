@@ -10,14 +10,12 @@
 <p>My darling wife  there is no more news at present will write again in a day or so.
 Tons and tons of kisses and embraces to my loving sweetheart and mother to be from your own loving and sincere husband with oceans and oceans of kisses.</p>
 
-<pre><code>                    Don
-</code></pre>
+<p>Don</p>
 
 <p>Get these kiddie  xxxxxxxxxxx Will give you the real thing before long, I hope love.</p>
 
 <p>PS Going to the YMCA now to get some supper if possible. What would I give to have supper with you darling tonight. Will make up for it darling.</p>
 
-<pre><code>        Love and kisses   Don
-</code></pre>
+<p>Love and kisses   Don</p>
 
 </div>

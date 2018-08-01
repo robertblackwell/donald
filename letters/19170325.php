@@ -11,15 +11,12 @@
 
 <p>Love and kisses to my darling wife from your own sincere and loving husband with tons of kisses and embraces.</p>
 
-<pre><code>        Don
-</code></pre>
+<p>Don</p>
 
 <p>Have written to the Mater* regarding Keith. I'm writing him tomorrow.</p>
 
 <p>Love to my darling love wife with xxxxxxxxxxxxxxxxxxxxx Don</p>
 
-<ul>
-<li>Mater  I believe is his mum</li>
-</ul>
+<p>Mater  I believe is his mum</p>
 
 </div>

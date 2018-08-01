@@ -9,7 +9,6 @@
 
 <p>Au revoir for the present. Kisses and embraces to my darling wife from your ever own and loving husband. Tons of love.</p>
 
-<pre><code>    XXXXXXXXXX Don
-</code></pre>
+<p>XXXXXXXXXX Don</p>
 
 </div>

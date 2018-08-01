@@ -15,7 +15,7 @@ Love kisses and embraces to my two darlings with millions and millions of kisses
 
 <p>To Darling Neita and Bonny Neville</p>
 
-<h3>Australian Camps in England</h3>
+<p>Australian Camps in England</p>
 
 <p>The following camps were used by the AIF during the Great War. Some of the camps remain to this day and are now home to Infantry and Artillery Units of the British Army, whereas many were closed and demolished soon after the end of the war. Although practically all signs of the WW1 camps have now gone, the presence of Australians during the war is very apparent, particularly when visiting the local and military churchyards in the surrounding area, where many succumbed to their wounds or died from illness particularly the flu epidemic of 1919. Australian soldiers also left their mark on the hillsides at Codford and Fovant with ‘Rising Sun’ cap badges cut into the chalk hills.
 Bulford

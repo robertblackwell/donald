@@ -23,8 +23,7 @@
 
 <p>With tons and tons of kisses to my darling wife from your ever own and loving husband with kisses and embraces galore.</p>
 
-<pre><code>            Don
-</code></pre>
+<p>Don</p>
 
 <p>Here are a few morel sweetheart xxxxxxxxxxxxx by jove I’ll make things hum when I get back to you love. Bet your life eh Kiddie.</p>
 

@@ -25,8 +25,7 @@
 
 <p>Au revoir for the present sweetheart, sincerely hope to receive your letters tomorrow. It will be simply grand to receive some more letters, seems like months since I've had any news from my darling. Snowing heavily at present. Hope you are keeping in the best of health and everything moving along okay towards the great event. Darling I would give anything to be with you, but of course that cannot be. I will get there as soon as I possible can. My thoughts are continually on you sweetheart and wishing you every thing of the best. Will write you again in a day or so. Love kisses and embraces to my darling wife from your ever loving and devoted husband with tons and tons of kisses.</p>
 
-<pre><code>                Don  xxxxxxxxxxxxxxxxxxxxxx and oooooooooooo
-</code></pre>
+<p>Don  xxxxxxxxxxxxxxxxxxxxxx and oooooooooooo</p>
 
 <p>One of the boys just brought me in a couple of sausages and a slice of bread. Just grand. Don</p>
 

@@ -17,7 +17,6 @@
 
 <p>Your loving husband</p>
 
-<pre><code>Don
-</code></pre>
+<p>Don</p>
 
 </div>

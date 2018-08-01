@@ -22,7 +22,7 @@ Au revoir for the present darling. My photos have not yet come to hand, written 
 
 <p>Don</p>
 
-<p>*Hendcott probably Hurdcott</p>
+<p>*Hendcott probably Hurdcott <a href="#hurdcott">see Australian Camps in Britain / Hurdcott</a></p>
 
 <p>Hurdcott The camp located at Compton Chamberlayne and close to Fovant (and the Fovant badges, pictured right) became known as Hurdcott Camp as it was on land that was part of two farms, one of which bore that name. Australian battalions moved to Hurdcott in 1916, and in March 1917 Hurdcott House became the headquarters of No.3 Command Depot for the AIF. At the camp practice trenches were dug, together with a bayonet fighting assault course close to a bombing ground, and five huts were transformed into a camp hospital. In November 1917 No.4 Command Depot moved from Codford to Hurdcott. By January 1919 the command depots had all but ceased to function in their primary use and were now receiving men from France on their way back home.</p>
 

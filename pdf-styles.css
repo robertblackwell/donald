@@ -208,3 +208,14 @@ blockquote {
 .xletter {
   page-break-inside: avoid;
 }
+
+.letter_head {
+  page-break-inside: avoid;
+  page-break-after: avoid;
+}
+
+.salutation > span {
+  color : navy;
+  font-weight: bold;
+  display: block;
+}

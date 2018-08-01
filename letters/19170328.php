@@ -9,8 +9,7 @@
 
 <p>Au revoir darling, going to turn in now. Wish I were going to bed with you love, but we’ll make up for it, eh darling. Love and kisses to my darling wife from your loving and sincere, devoted husband with kisses and embraces.</p>
 
-<pre><code>        Don
-</code></pre>
+<p>Don</p>
 
 <p>Take these darling XXXXXXXXXXXXXXXXXXXXXXXX and many many more love Don</p>
 

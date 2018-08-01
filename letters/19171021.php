@@ -28,9 +28,7 @@ Will now say au revoir, darling and hope my two dears are keeping in the  best o
 
 <p>To Neita and Neville with love.  Don</p>
 
-<ul>
-<li>Hendcott I believe is really Hurdcott</li>
-</ul>
+<p>Hendcott I believe is really Hurdcott</p>
 
 <p>**  Broad Chalke, sometimes spelled Broadchalke, Broad Chalk or Broadchalk, is a village and civil parish in Wiltshire, England, about 8 miles (13 km) west of the city of Salisbury. </p>
 

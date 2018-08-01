@@ -16,9 +16,7 @@ There are a few Aussie letters about here today, dated September 5th if my luck 
 
 <p>Keith</p>
 
-<ul>
-<li>Towns name crossed out but near to Ypres</li>
-</ul>
+<p>Towns name crossed out but near to Ypres</p>
 
 <p>**estaminet means tavern</p>
 

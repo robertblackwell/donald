@@ -29,16 +29,14 @@
 	<p>Don</p>
 
 	<p>Can guess your thoughts when you first heard of the peace proposal. Suppose you know what mine were anything to get back to you love, anyhow it may not be very long.</p>
-						<p>Love to my darling</p> 
-							<p>Don</p>
+	<p>Love to my darling</p> 
+	<p>Don</p>
 
 	<p><bold>PS</bold> Last night a sailing boat tried to enter the bay after dark. It was met with a shell from one of the Forts, no damage done, caused great excitement. I was in a position which gave me a full view of the whole proceedings. No beg pardons where the Navy is concerned. Naval  men man the Forts.</p>
 
 
-	<div class="fnote">
 	*
 	<p>It was for Sierra Leone, which in 1807 had become Britain’s first West African colony, that the term ” White Man’s Grave“ was originally coined.  It had been conceived as a home for slaves freed after slavery was declared illegal in Britain In 1772.  A humanitarian doctor suggested Sierra Leone would be ” a permanent and comfortable establishment in a most pleasant and fertile climate“.  It was a virtual paradise, he explained, ”where a man possessed of a change of clothing, a wood-axe, a hoe and a pocket knife could soon make himself at home“.</p>
 	<p>But reality was very different.  The first batch of slaves had mostly been flamboyantly dressed flunkies in stately homes and town mansions.  Easy prey to tropical diseases, without any proper system of government-sponsored hygiene, they died in scores.  Missionaries who followed them out there found things equally tough.  They were only being realistic when they spoke of “seeking martyrdom” there.  One society lost 53 of the first 79 it sent out.  “I looked upon the land” wrote James Norman of his arrival in Freetown in 1821, “as my burying place”.</p>
 	<p>Government servants fared no better.  During one seven-month period Sierra Leone went through 4 acting governors; two died in office and another, mindful of his predecessors fates, left the colony when he fell ill.  On another occasion, a governor returning from a trip found his administration had no lawyer, no chief justice, no secretary, no chaplain, and only one schoolmaster.</p>
-	</div>
 </div>

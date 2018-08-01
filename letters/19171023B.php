@@ -21,8 +21,6 @@
 
 <p>Love and love from husband and father    Don</p>
 
-<ul>
-<li>I believe Hurdcott Camp</li>
-</ul>
+<p>I believe Hurdcott Camp</p>
 
 </div>

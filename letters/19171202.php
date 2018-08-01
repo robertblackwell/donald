@@ -17,8 +17,6 @@
 
 <p>Hubby and daddy</p>
 
-<ul>
-<li>I can’t decipher the sentence</li>
-</ul>
+<p>I can’t decipher the sentence</p>
 
 </div>

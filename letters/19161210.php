@@ -1,5 +1,5 @@
 <div class="letter">
-<div class="letter"><h2>Sunday 10 December 1916</h2>
+<h2>Sunday 10 December 1916</h2>
 <p>My darling wife</p>
 
 <p>It took two and a half days from Durban to Cape Town. The run along the coast was very tame really, nothing of importance to relate. We arrived at Cape Town last Monday morning at 1:30AM  and anchored in Table Bay until light in the morning. Happened to wake just as we entered the bay to see what there was to be seen of the town.</p>
@@ -29,5 +29,5 @@ Sweetheart at Cape Town I sent you a packet of postcards 12 in all they are of D
 <p>	Don</p>
 <p>Also enclosing another photo. Do you think I'm getting fatter, they all say I am? </p>
 <p>Love to my darling.</p>
+
 </div>
-<!--div class="fnote"><p>*Blighty means England</p></div-->

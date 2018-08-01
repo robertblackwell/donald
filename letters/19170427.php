@@ -7,7 +7,7 @@
 
 <p>Well Neita no more news at present. I saw in yesterday's Daily Mail that  E Capper  R.F.6 was posted as missing, I wonder is that Teddy Capper. If it is him will send a London paper over. Well Neita can't hang out any longer. Love to all at home. Your affectionate brother.</p>
 
-<pre><code>                George
-</code></pre>
+<p>George
+</p>
 
 </div>
