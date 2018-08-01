@@ -7,7 +7,9 @@
 
 <p>Last night did not go to the pictures as anticipated, but went to a song service at the YMCA. Another young chap and myself went together, and while there we had a contest as to who could sing the loudest. Well we both made plenty of noise, but came to no decision so settle it  afterwards in the hut. Ended in a draw. </p>
 
-<p>Nellie’s letter was very bright, as usual, told me that her father was ill under the “Dr” but was on the improve. Also said that Fritz had been over but had not dropped any bombs near Goudhurst. This morning I received two Sydney Mails from Phyll. Very nice to receive them, there was a general rush by the boys in the hut to see them. One photo took my eye, Newcastle on French Day. Some of the pictures taken from the front are very funny, would like to know where some of them were taken. Nellie sent me a bosker*  parcel of cakes and butter today. Home-made butter, plenty of toast tonight for supper. </p>
+<p>Nellie’s letter was very bright, as usual, told me that her father was ill under the “Dr” but was on the improve. Also said that Fritz had been over but had not dropped any bombs near Goudhurst. This morning I received two Sydney Mails from Phyll. Very nice to receive them, there was a general rush by the boys in the hut to see them. One photo took my eye, Newcastle on French Day. Some of the pictures taken from the front are very funny, would like to know where some of them were taken. Nellie sent me a bosker*
+	<span class='fn'>bosker, Australian slang meaning first rate or excellent</span>
+parcel of cakes and butter today. Home-made butter, plenty of toast tonight for supper. </p>
 
 <p>Well I told you that leave was stopped on Saturday thus preventing my going into Salisbury, it was lifted today, just my luck.</p>
 
@@ -19,6 +21,6 @@
 
 <p>Don</p>
 
-<p>Definition of bosker. slang, Australia. : first-rate, excellent.</p>>
+<!--p>Definition of bosker. slang, Australia. : first-rate, excellent.</p>-->
 
 </div>

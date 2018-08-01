@@ -1,5 +1,5 @@
 <div class='letter'>
-<h2>Sandhill Camp
+<h2>Sandhill Camp,
 25th January 1918</h2>
 
 <p>Dear father</p>

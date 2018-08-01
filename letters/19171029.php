@@ -1,5 +1,5 @@
 <div class='letter'>
-<h2>Hendcott Camp*, 29th October 1917</h2>
+<h2>Hendcott Camp <span class='fn'>I believe this should be Hurdcott Camp</span>, 29th October 1917</h2>
 
 <p>To my Darling Wife and Bonny Son</p>
 
@@ -12,7 +12,5 @@
 <p>It is bitterly cold, come and cuddle me, come and cuddle me, what would I give for we 3 to have a good cuddle up, would be simply great. Wait till I get home to my love ones. XXXXXXXXXXXXXXXXXXXXXXXXXXXX loving husband and father.</p>
 
 <p>Don</p>
-
-<p>*I believe Hurdcott Camp</p>
 
 </div>

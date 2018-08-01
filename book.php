@@ -1,4 +1,16 @@
 <?php include dirname(__FILE__)."/php/render.php"; ?>
+
+<?php
+	$transform = false;
+	if( ! $transform) {
+		$letters_in_dir = dirname(__FILE__)."/letters_final"; 
+		$render_function = "\\Render::no_transform";
+	} else {
+		$letters_in_dir = dirname(__FILE__)."/letters"; 
+		$render_function = "\\Render::with_transform";
+	}
+?>
+
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 	<head>
@@ -28,20 +40,20 @@
 		</div>
 
 		<h1 id="ch1" class="chapter">Introduction</h1>
-			<?php include dirname(__FILE__)."/letters/introduction.php"; ?>
+			<?php include $letters_in_dir."/introduction.php"; ?>
 
 		<!--img src="images/z025.png" /-->
 
 		<div class="ch_wrap">
 			<h1 id="ch2" class="chapter">1916</h1>
 				<?php 
-					Render::letter ( dirname(__FILE__)."/letters/19161030.php" );
-					Render::letter ( dirname(__FILE__)."/letters/19161114A.php");
-					Render::letter ( dirname(__FILE__)."/letters/19161114B.php");
-					Render::letter ( dirname(__FILE__)."/letters/19161210.php");
-					Render::letter ( dirname(__FILE__)."/letters/19161220.php");
-					Render::letter ( dirname(__FILE__)."/letters/19161225.php");
-					Render::letter ( dirname(__FILE__)."/letters/19161229.php");
+					$render_function ($letters_in_dir."/19161030.php" );
+					$render_function ($letters_in_dir."/19161114A.php");
+					$render_function ($letters_in_dir."/19161114B.php");
+					$render_function ($letters_in_dir."/19161210.php");
+					$render_function ($letters_in_dir."/19161220.php");
+					$render_function ($letters_in_dir."/19161225.php");
+					$render_function ($letters_in_dir."/19161229.php");
 				?>
 		</div>
 
@@ -52,131 +64,137 @@
 		<div class="ch_wrap">
 			<h1 id="ch3" class="chapter">1917</h1>
 				<?php
-				 Render::letter ( dirname(__FILE__)."/letters/19170101.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170107.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170111.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170113.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170114.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170116.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170122.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170123.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170124.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170125.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170128.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170128P.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170201.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170206.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170212.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170107.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170111.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170113.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170114.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170116.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170122.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170123.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170124.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170125.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170128.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170128P.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170201.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170206.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170212.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170213.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170215.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170216.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170220.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170227.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170304.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170305.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170308.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170311.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170314.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170318.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170319.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170323.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170325.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170328.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170402.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170405.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170407.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170409.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170413.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170416.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170417.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170419.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170426.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170427.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170431.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170513.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170605.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170606.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170607.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170610.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170615.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170616.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170619.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170621.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170624.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170626.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170701.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170704.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19170816.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171009.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171015.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171021.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171023.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171023B.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171025.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171029.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171029B.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171031.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171104.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171105.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171110 B.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171110.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171113.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171115.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171119.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171125.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171128.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171202.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171205.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171209.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171219.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171223.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171225A.php");
-				 Render::letter ( dirname(__FILE__)."/letters/19171225B.php");
-			?>
+					$render_function ($letters_in_dir."/19170101.php");
+					$render_function ($letters_in_dir."/19170107.php");
+					$render_function ($letters_in_dir."/19170111.php");
+					$render_function ($letters_in_dir."/19170113.php");
+					$render_function ($letters_in_dir."/19170114.php");
+					$render_function ($letters_in_dir."/19170116.php");
+					$render_function ($letters_in_dir."/19170122.php");
+					$render_function ($letters_in_dir."/19170123.php");
+					$render_function ($letters_in_dir."/19170124.php");
+					// $render_function ($letters_in_dir."/19170125.php");
+					$render_function ($letters_in_dir."/19170128.php");
+					$render_function ($letters_in_dir."/19170128P.php");
+
+					$render_function ($letters_in_dir."/19170201.php");
+					$render_function ($letters_in_dir."/19170206.php");
+					$render_function ($letters_in_dir."/19170212.php");
+
+
+					// this block is repeated
+					 // $render_function ($letters_in_dir."/19170107.php");
+					 // $render_function ($letters_in_dir."/19170111.php");
+					 // $render_function ($letters_in_dir."/19170113.php");
+					 // $render_function ($letters_in_dir."/19170114.php");
+					 // $render_function ($letters_in_dir."/19170116.php");
+					 // $render_function ($letters_in_dir."/19170122.php");
+					 // $render_function ($letters_in_dir."/19170123.php");
+					 // $render_function ($letters_in_dir."/19170124.php");
+					 // $render_function ($letters_in_dir."/19170125.php");
+					 // $render_function ($letters_in_dir."/19170128.php");
+					 // $render_function ($letters_in_dir."/19170128P.php");
+					 // $render_function ($letters_in_dir."/19170201.php");
+					 // $render_function ($letters_in_dir."/19170206.php");
+					 // $render_function ($letters_in_dir."/19170212.php");
+
+					 $render_function ($letters_in_dir."/19170213.php");
+					 $render_function ($letters_in_dir."/19170215.php");
+					 $render_function ($letters_in_dir."/19170216.php");
+					 $render_function ($letters_in_dir."/19170220.php");
+					 $render_function ($letters_in_dir."/19170227.php");
+					 $render_function ($letters_in_dir."/19170304.php");
+					 $render_function ($letters_in_dir."/19170305.php");
+					 $render_function ($letters_in_dir."/19170308.php");
+					 $render_function ($letters_in_dir."/19170311.php");
+					 $render_function ($letters_in_dir."/19170314.php");
+					 $render_function ($letters_in_dir."/19170318.php");
+					 $render_function ($letters_in_dir."/19170319.php");
+					 $render_function ($letters_in_dir."/19170323.php");
+					 $render_function ($letters_in_dir."/19170325.php");
+					 $render_function ($letters_in_dir."/19170328.php");
+					 $render_function ($letters_in_dir."/19170402.php");
+					 $render_function ($letters_in_dir."/19170405.php");
+					 $render_function ($letters_in_dir."/19170407.php");
+					 $render_function ($letters_in_dir."/19170409.php");
+					 $render_function ($letters_in_dir."/19170413.php");
+					 $render_function ($letters_in_dir."/19170416.php");
+					 $render_function ($letters_in_dir."/19170417.php");
+					 $render_function ($letters_in_dir."/19170419.php");
+					 $render_function ($letters_in_dir."/19170426.php");
+					 $render_function ($letters_in_dir."/19170427.php");
+					 $render_function ($letters_in_dir."/19170431.php");
+					 $render_function ($letters_in_dir."/19170513.php");
+					 $render_function ($letters_in_dir."/19170605.php");
+					 $render_function ($letters_in_dir."/19170606.php");
+					 $render_function ($letters_in_dir."/19170607.php");
+					 $render_function ($letters_in_dir."/19170610.php");
+					 $render_function ($letters_in_dir."/19170615.php");
+					 $render_function ($letters_in_dir."/19170616.php");
+					 $render_function ($letters_in_dir."/19170619.php");
+					 $render_function ($letters_in_dir."/19170621.php");
+					 $render_function ($letters_in_dir."/19170624.php");
+					 $render_function ($letters_in_dir."/19170626.php");
+					 $render_function ($letters_in_dir."/19170701.php");
+					 $render_function ($letters_in_dir."/19170704.php");
+					 $render_function ($letters_in_dir."/19170816.php");
+					 $render_function ($letters_in_dir."/19171009.php");
+					 $render_function ($letters_in_dir."/19171015.php");
+					 $render_function ($letters_in_dir."/19171021.php");
+					 $render_function ($letters_in_dir."/19171023.php");
+					 $render_function ($letters_in_dir."/19171023B.php");
+					 $render_function ($letters_in_dir."/19171025.php");
+					 $render_function ($letters_in_dir."/19171029.php");
+					 $render_function ($letters_in_dir."/19171029B.php");
+					 $render_function ($letters_in_dir."/19171031.php");
+					 $render_function ($letters_in_dir."/19171104.php");
+					 $render_function ($letters_in_dir."/19171105.php");
+					 $render_function ($letters_in_dir."/19171110B.php");
+					 $render_function ($letters_in_dir."/19171110.php");
+					 $render_function ($letters_in_dir."/19171113.php");
+					 $render_function ($letters_in_dir."/19171115.php");
+					 $render_function ($letters_in_dir."/19171119.php");
+					 $render_function ($letters_in_dir."/19171125.php");
+					 $render_function ($letters_in_dir."/19171128.php");
+					 $render_function ($letters_in_dir."/19171202.php");
+					 $render_function ($letters_in_dir."/19171205.php");
+					 $render_function ($letters_in_dir."/19171209.php");
+					 $render_function ($letters_in_dir."/19171219.php");
+					 $render_function ($letters_in_dir."/19171223.php");
+					 $render_function ($letters_in_dir."/19171225A.php");
+					 $render_function ($letters_in_dir."/19171225B.php");
+				?>
 		</div>
 
 		<div class="ch_wrap">
 			<h1 id="ch4" class="chapter">1918</h1>
 				<?php
-					 Render::letter ( dirname(__FILE__)."/letters/19180106.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180111.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180113.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180125.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180129.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180202.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180203.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180207.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180210.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180217.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180224.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180226.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180306.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180316.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180316B.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180320.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180328.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19180917.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19181020.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19181022.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19181023.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19181101.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19181111.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19181116.php");
-					 Render::letter ( dirname(__FILE__)."/letters/19181120.php");
+					 $render_function ($letters_in_dir."/19180106.php");
+					 $render_function ($letters_in_dir."/19180111.php");
+					 $render_function ($letters_in_dir."/19180113.php");
+					 $render_function ($letters_in_dir."/19180125-father.php");
+					 $render_function ($letters_in_dir."/19180125.php");
+					 $render_function ($letters_in_dir."/19180129.php");
+					 $render_function ($letters_in_dir."/19180202.php");
+					 $render_function ($letters_in_dir."/19180203.php");
+					 $render_function ($letters_in_dir."/19180207.php");
+					 $render_function ($letters_in_dir."/19180210.php");
+					 $render_function ($letters_in_dir."/19180217.php");
+					 $render_function ($letters_in_dir."/19180224.php");
+					 $render_function ($letters_in_dir."/19180226.php");
+					 $render_function ($letters_in_dir."/19180306.php");
+					 $render_function ($letters_in_dir."/19180316.php");
+					 $render_function ($letters_in_dir."/19180316B.php");
+					 $render_function ($letters_in_dir."/19180320.php");
+					 $render_function ($letters_in_dir."/19180328.php");
+					 $render_function ($letters_in_dir."/19180917.php");
+					 $render_function ($letters_in_dir."/19181020.php");
+					 $render_function ($letters_in_dir."/19181022.php");
+					 $render_function ($letters_in_dir."/19181023.php");
+					 $render_function ($letters_in_dir."/19181101.php");
+					 $render_function ($letters_in_dir."/19181111.php");
+					 $render_function ($letters_in_dir."/19181116.php");
+					 $render_function ($letters_in_dir."/19181120.php");
 				?>
 		</div>
 				<!--blockquote><p>
@@ -192,21 +210,21 @@
 		<div class="ch_wrap">
 			<h1 id="australian_camps" class="chapter">Australian Army Camps in Britain</h1>
 				<?php
-					include "letters/australian_camps.php";
+					include $letters_in_dir."/australian_camps.php";
 				?>
 		</div>
 
 		<div class="ch_wrap">
 			<h1 id="casualties" class="chapter">War Casualty</h1>
 				<?php 
-					include "letters/war_casualties.php";
+					include $letters_in_dir."/war_casualties.php";
 				?>
 		</div>
 
 		<div class="ch_wrap">
 			<h1 id="wedding" class="chapter">Wedding</h1>
 				<?php
-					include "letters/wedding.php";
+					include $letters_in_dir."/wedding.php";
 				?>	
 		</div>
 
