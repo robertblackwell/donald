@@ -15,17 +15,16 @@
 <html dir="ltr" lang="en-US">
 	<head>
 	<meta charset="utf-8" />
-	<title>Our Cats and all about them</title>
-	<meta name="author" content="Harrison Weir"/>
-	<meta name="subject" content="Cats. Their Varieties, Habits and Management; and for show, the Standard of Excellence and Beauty"/>
-	<meta name="keywords" content="cats,feline"/>
-	<meta name="date" content="2014-07-15"/>
+	<title>My Darling Wife</title>
+	<meta name="author" content="Nina Blackwell"/>
+	<meta name="subject" content="Letters from Donald Cameron McDonald to his wife Neita during World War I"/>
+	<meta name="date" content="2017, 2018"/>
 	</head>
 	<body>
 		<div class="frontcover">
 		</div>
 		<div class="contents">
-			<h1>My Darling Wife and Bonny Son</h1>
+			<h1>My Darling Wife</h1>
 
 			<ul class="toc">
 				<li><a href="#ch1">Introduction</a></li>
@@ -49,7 +48,7 @@
 				<?php 
 					$render_function ($letters_in_dir."/19161030.php" );
 					$render_function ($letters_in_dir."/19161114A.php");
-					$render_function ($letters_in_dir."/19161114B.php");
+					// $render_function ($letters_in_dir."/19161114B.php"); // removed - too little content
 					$render_function ($letters_in_dir."/19161210.php");
 					$render_function ($letters_in_dir."/19161220.php");
 					$render_function ($letters_in_dir."/19161225.php");
