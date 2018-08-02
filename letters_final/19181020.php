@@ -11,7 +11,9 @@
 		<p>Dear Nellie</p>
 	</div><!-- end class='letter_header'-->
 <!-- --------------------------------------------------------------------------->
-<p>In hospital with &lsquo;flu&rsquo;, getting on a fairly well. Have been down four days, now. Will you please write home. Too weak to do any writing. If Neita saw a letter like this she would you go silly. No hope of getting to Blighty.</p>
+<div class='closing'>
+<p>In hospital with &lsquo;flu&rsquo;, getting on fairly well. Have been down four days, now. Will you please write home. Too weak to do any writing. If Neita saw a letter like this she would you go silly. No hope of getting to Blighty.</p>
 <p>Your loving cousin</p>
 <p>Don</p>
+</div>
 </div><!-- letter -->

@@ -166,6 +166,7 @@
 					 $render_function ($letters_in_dir."/19171223.php");
 					 $render_function ($letters_in_dir."/19171225A.php");
 					 $render_function ($letters_in_dir."/19171225B.php");
+					 $render_function ($letters_in_dir."/19171230C.php");
 				?>
 		</div>
 
@@ -188,6 +189,7 @@
 					 $render_function ($letters_in_dir."/19180306.php");
 					 $render_function ($letters_in_dir."/19180316.php");
 					 $render_function ($letters_in_dir."/19180316B.php");
+					 $render_function ($letters_in_dir."/19180317C.php");
 					 $render_function ($letters_in_dir."/19180320.php");
 					 $render_function ($letters_in_dir."/19180328.php");
 					 $render_function ($letters_in_dir."/19180917.php");
