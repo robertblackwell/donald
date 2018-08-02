@@ -1,5 +1,5 @@
 
-<div class='letter'>
+<div class='letter postcard'>
 	<div class='letter_head'>
 
 		<div class='salutation'>

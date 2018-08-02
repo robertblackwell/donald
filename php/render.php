@@ -186,7 +186,21 @@ class Checker
 		}
 	}	
 }
+class Postcard
+{
+	public static function render($postcard_name)
+	{
+		$pc_path = "Scans/{$postcard_name}.jpg";
+		$s =<<<EOD
 
+		<div class='postcard_wrap'>
+			<img src="$pc_path"/>
+		</div>
+
+EOD;
+		print $s;
+	}
+}
 // renders a single letter
 class Render
 {
@@ -202,9 +216,10 @@ class Render
 	public static function no_transform($file_name)
 	{
 		print "\n<!-- begin $file_name NO TRANSFORM ". date('l jS \of F Y h:i:s A') ."-->\n";
-		$raw = file_get_contents($file_name);
-			$html = $raw;
-		print $html;
+		include $file_name;
+		// $raw = file_get_contents($file_name);
+		// 	$html = $raw;
+		// print $html;
 		print "\n<!-- end $file_name NO TRANSFORM ". date('l jS \of F Y h:i:s A') ."-->\n";
 	}
 

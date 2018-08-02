@@ -1,5 +1,17 @@
-<?php include dirname(__FILE__)."/php/render.php"; ?>
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+	<head>
+		<meta charset="utf-8" />
+		<title>My Darling Wife</title>
+		<meta name="author" content="Nina Blackwell"/>
+		<meta name="subject" content="Letters from Donald Cameron McDonald to his wife Neita during World War I"/>
+		<meta name="date" content="2017, 2018"/>
+	</head>
+	<body>
+		<div class="frontcover"></div>
 
+
+<?php include dirname(__FILE__)."/php/render.php"; ?>
 <?php
 	$transform = false;
 	if( ! $transform) {
@@ -11,18 +23,6 @@
 	}
 ?>
 
-<!DOCTYPE html>
-<html dir="ltr" lang="en-US">
-	<head>
-	<meta charset="utf-8" />
-	<title>My Darling Wife</title>
-	<meta name="author" content="Nina Blackwell"/>
-	<meta name="subject" content="Letters from Donald Cameron McDonald to his wife Neita during World War I"/>
-	<meta name="date" content="2017, 2018"/>
-	</head>
-	<body>
-		<div class="frontcover">
-		</div>
 		<div class="contents">
 			<h1>My Darling Wife</h1>
 
@@ -65,6 +65,7 @@
 				<?php
 					$render_function ($letters_in_dir."/19170101.php");
 					$render_function ($letters_in_dir."/19170107.php");
+					$render_function ($letters_in_dir."/19170108.php");
 					$render_function ($letters_in_dir."/19170111.php");
 					$render_function ($letters_in_dir."/19170113.php");
 					$render_function ($letters_in_dir."/19170114.php");
@@ -122,8 +123,8 @@
 					 $render_function ($letters_in_dir."/19170419.php");
 					 $render_function ($letters_in_dir."/19170426.php");
 					 $render_function ($letters_in_dir."/19170427.php");
-					 $render_function ($letters_in_dir."/19170431.php");
 					 $render_function ($letters_in_dir."/19170513.php");
+					 $render_function ($letters_in_dir."/19170531.php");
 					 $render_function ($letters_in_dir."/19170605.php");
 					 $render_function ($letters_in_dir."/19170606.php");
 					 $render_function ($letters_in_dir."/19170607.php");
@@ -136,7 +137,9 @@
 					 $render_function ($letters_in_dir."/19170626.php");
 					 $render_function ($letters_in_dir."/19170701.php");
 					 $render_function ($letters_in_dir."/19170704.php");
+					 $render_function ($letters_in_dir."/191708C.php");
 					 $render_function ($letters_in_dir."/19170816.php");
+					 $render_function ($letters_in_dir."/19170907C.php");
 					 $render_function ($letters_in_dir."/19171009.php");
 					 $render_function ($letters_in_dir."/19171015.php");
 					 $render_function ($letters_in_dir."/19171021.php");

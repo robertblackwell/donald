@@ -21,7 +21,8 @@
 		</span>
 
 Do not think it's the beginning of the big offensive but let us sincerely hope so.</p>
-<p>Yes kiddie I would give anything to be back again with you and bet your sweet life I'll be there as soon as I possibly can. Well dearest will now say au revoir. How is little Mac progressing? Grand says you, that &rsquo;s good dear.</p>
+<div class='closing'>
+<p>Yes kiddie I would give anything to be back again with you and bet your sweet life I'll be there as soon as I possibly can. Well dearest will now say au revoir. How is little Mac progressing? Grand says you, that&rsquo;s good dear.</p>
 <p>Tons of love and kisses to my darling wife with embraces.</p>
 <p>From your most loving husband.</p>
 <p>Don</p>
@@ -32,4 +33,5 @@ Do not think it's the beginning of the big offensive but let us sincerely hope s
 
 <p>** Operations on the Ancre&nbsp;took place from&nbsp;11 January &ndash; 13 March 1917,&nbsp;between the British&nbsp;Fifth Army&nbsp;and the German&nbsp;1st Army, on the Somme front during the&nbsp;First World War</p>
 -->
+</div>
 </div><!-- letter -->

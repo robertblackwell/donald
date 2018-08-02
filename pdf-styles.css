@@ -16,9 +16,16 @@ img {
 	max-width: 100%;
 }
 
+div.prefrontcover {
+	page: cover; 
+	content: url("images/cover.png");
+	width: 100%;
+	height: 100%; 	
+}
+
 div.frontcover { 
 	page: cover; 
-	content: "My Darling Wife"/*url("images/cover.png")*/;
+	content: url("Scans/don_portrait_oval_2.png");
 	width: 100%;
 	height: 100%; 
 }
@@ -213,11 +220,18 @@ blockquote {
 	page-break-inside: avoid;
 	page-break-after: avoid;
 }
-
+.keep-together {
+	page-break-inside : avoid;
+}
 .salutation > span {
 	color : navy;
 	font-weight: bold;
 	display: block;
+}
+
+.postcard  {
+	padding-bottom : 30px;
+	/*page-break-after: always;*/
 }
 
 div.descendents h4, div.descendents span {

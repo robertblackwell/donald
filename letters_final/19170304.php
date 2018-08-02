@@ -26,9 +26,15 @@ L    I  T T L    E   M    A    C
 <p>About half an hour ago I received a letter from Mrs. Smith, also another parcel of cakes, making the third parcel. It is exceedingly good of her, words fail me, how to thank her.</p>
 <p>Just as I got into bed last night what do you think I received, why two of your loving letters sat straight up and devoured every word of them. The letters received were number 16 and 17, dated the third and seventh of January. Very pleased to hear you received a letter from Keith, wish I could hear where he is. Waiting anxiously for his address. The words on the card from Auntie Fon were very fine indeed. No doubt mum is feeling  a bit off with the two of us being away, but she will have to buck up, it may not be very long before we return. So I can see sweetheart you still like your bed, that is right keep a place warm your hubby. Very sorry not seeing George before leaving, he left just a fortnight before we arrived and his camp was just alongside ours. Sent you a cable yesterday through headquarters Horseberry Road London. May get it early, but that won&rsquo;t matter much will it kiddie. Contains  birthday greetings etc.</p>
 <p>That is indeed a great joke the questions asked by the youngsters regarding &ldquo;Macs&rdquo; baby things. By jove I laughed, one of the best laughs, I&rsquo;ve had on this side. The boys wanted to know what was all the stir, of course told them, I don&rsquo;t think. Wish I could get near you to ask similar questions and also give you a hand.  &ldquo;Ours&rdquo; why certainly will be the greatest youngster born, especially if he takes after his father&hellip;&hellip;. and of course his mother. Could not leave his mother out of it, sweetheart. </p>
+<div class='closing'>
 <p>Mrs. Watts, what has the boss got to say about her, sure to have a good joke, at her expense. Never mind Mrs. Watts will do all that's necessary. The forget-me-knot arrived in good condition.</p>
+
 <p>Well darling will now close. Au revoir for the present</p>
+
 <p>Love, kisses and embraces to my darling little wife and mother to be from your must loving and sincere hubby and father to be.</p>
+
 <p>Don</p>
+
 <p>Enclosing a few postcards, one of which I am sure will interest you.</p>
+</div>
 </div><!-- letter -->
