@@ -152,10 +152,11 @@
 					 $render_function ($letters_in_dir."/19171104.php");
 					 $render_function ($letters_in_dir."/19171105.php");
 					 $render_function ($letters_in_dir."/19171110B.php");
-					 $render_function ($letters_in_dir."/19171110.php");
+					 // $render_function ($letters_in_dir."/19171110.php");
 					 $render_function ($letters_in_dir."/19171113.php");
 					 $render_function ($letters_in_dir."/19171115.php");
 					 $render_function ($letters_in_dir."/19171119.php");
+					 $render_function ($letters_in_dir."/19171123.php");
 					 $render_function ($letters_in_dir."/19171125.php");
 					 $render_function ($letters_in_dir."/19171128.php");
 					 $render_function ($letters_in_dir."/19171202.php");

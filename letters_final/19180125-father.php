@@ -4,7 +4,7 @@
 
 		<div class='salutation'>
 			<span class='lh_el'>Sandhill Camp</span>
-			<span class='lh_el'>25th January 1917</span>
+			<span class='lh_el'>25th January 1918</span>
 		</div>
 		<p>Dear Father</p>
 	</div><!-- end class='letter_header'-->

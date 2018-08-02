@@ -1,5 +1,5 @@
 
-<div class='letter'>
+<div class='letter postcard'>
 	<div class='letter_head'>
 
 		<div class='salutation'>
@@ -8,8 +8,13 @@
 		<p>Cablegram</p>
 	</div><!-- end class='letter_header'-->
 <!-- --------------------------------------------------------------------------->
-<p>Mc Donald</p>
+<div class='closing'>
+<!--p>Mc Donald</p>
 <p>Charles Street</p>
 <p>Season's greetings love well</p>
-<p>Don McDonald</p>
+<p>Don McDonald</p-->
+
+<?php Telegram::render("171225-T-1-fixed"); ?>
+
+</div>
 </div><!-- letter -->

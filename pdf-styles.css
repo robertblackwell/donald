@@ -229,11 +229,28 @@ blockquote {
 	display: block;
 }
 
-.postcard  {
+/* postcard styling */
+.postcard {
 	padding-bottom : 30px;
 	/*page-break-after: always;*/
 }
+.postcard_wrap {
 
+}
+
+/* signatures */
+.signatures_wrap {
+	/*border: solid 1px red;
+	background-color: pink;*/
+}
+
+.signatures_wrap > img {
+	width: 100%;
+	display: block;
+	margin: auto;
+}
+
+/* descendants page */
 div.descendents h4, div.descendents span {
 	font-weight:bold; 
 	color:navy; 

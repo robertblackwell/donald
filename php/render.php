@@ -201,6 +201,38 @@ EOD;
 		print $s;
 	}
 }
+
+class Telegram
+{
+	public static function render($scan_name, $width='100%')
+	{
+		$img_path = "Scans/{$scan_name}.jpg";
+		$s =<<<EOD
+
+		<div class='signatures_wrap'>
+			<img src="$img_path" style='width:{$width}; '/>
+		</div>
+
+EOD;
+		print $s;
+	}	
+}
+
+class Signatures
+{
+	public static function render($scan_name)
+	{
+		$img_path = "Scans/{$scan_name}.jpg";
+		$s =<<<EOD
+
+		<div class='signatures_wrap'>
+			<img src="$img_path" xstyle='width:100%; display: block; margin: auto;'/>
+		</div>
+
+EOD;
+		print $s;
+	}
+}
 // renders a single letter
 class Render
 {
