@@ -1,7 +1,3 @@
-<br><br>
-<h4>write an introduction</h4>
-<!--p>Donald Cameron McDonald, 4th November 1888  to 22nd November 1918</p>
-
 <div class='descendents'>
 <h4 xstyle='font-weight:bold; color:navy; margin-bottom:0px; padding-bottom:0px'>Son of</h4> 
 <pre xstyle='margin-top: 0px; padding-top:0px;'>Mr Edward J McDonald and Mrs Ida Marion McDonald (nee Roberts)
@@ -41,5 +37,4 @@ Vincent McGrath,
 Scout McGrath,
 Elle McGrath
 </pre>
-</div-->
-
+</div>

@@ -16,6 +16,14 @@ img {
 	max-width: 100%;
 }
 
+div.mmfrontcover {
+	page: cover; 
+	width: 100%;
+	height: 100%; 	
+	background-color:pink;
+}
+
+
 div.prefrontcover {
 	page: cover; 
 	content: url("images/cover.png");
@@ -263,4 +271,27 @@ div.descendents h4, div.descendents span {
 	/*font-weight:bold;*/
 	font-size: small;
 	font-family: "Courier New", Courier, monospace;
+}
+table {
+	border-collapse:collapse;
+	page-break-inside: auto;
+}
+
+tr > td {
+
+	padding-bottom: 20px;
+	margin-bottom : 50px;
+	page-break-inside: avoid;
+	font-size : small;
+
+}
+
+tr {
+	/*border-bottom: 1px solid green;*/
+}
+
+tr  td:first-child {
+	vertical-align: top;
+	/*background-color : pink;*/
+	width : 6em;
 }

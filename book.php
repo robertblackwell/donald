@@ -40,9 +40,13 @@
 				<li><a href="#australian_camps">Australian Army Camps in Britain</a></li>
 				<li><a href="#money">Money</a></li>
 				<li><a href="#characters">Characters</a></li>
+				<li><a href="#mm">Summary of Letters and Diary, by M. McGrath</a></li>
+				<li><a href="#family">Donald's Family</a></li>
+				<li><a href="#rouen">Map of Rouen War Cemetery</a></li>
 			</ul>
 
 		</div>
+
 
 		<h1 id="preface" class="chapter">Preface</h1>
 			<?php render_letter("preface.php"); ?>
@@ -241,6 +245,22 @@
 		<div class="ch_wrap">
 			<h1 id="characters" class="chapter">Characters</h1>
 				<?php render_letter("/characters.php");?>	
+		</div>
+
+		<div class="ch_wrap">
+			<h1 id="mm" class="chapter">Summary of Letters and Diary, by Michael McGrath</h1>
+				<?php render_letter("mm.php"); ?>
+		</div>
+
+		<div class="ch_wrap">
+			<h1 id="family" class="chapter">Donald's Family</h1>
+				<?php render_letter("family.php"); ?>
+		</div>
+
+		<div class="ch_wrap">
+			<h1 id="rouen" class="chapter">Map of Ruoen War Cemetery</h1>
+				<?php render_letter("rouen.php"); ?>
 		</div>		
+
 	</body>
 </html>

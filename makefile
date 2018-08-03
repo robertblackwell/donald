@@ -128,7 +128,12 @@ DEPS_18=$(LETTERS_DIR)/19180106.php \
 DEPS_MISC= $(LETTERS_DIR)/australian_camps.php \
 			$(LETTERS_DIR)/introduction.php \
 			$(LETTERS_DIR)/war_casualties.php \
-			$(LETTERS_DIR)/wedding.php
+			$(LETTERS_DIR)/wedding.php \
+			$(LETTERS_DIR)/mm.php \
+			$(LETTERS_DIR)/preface.php \
+			$(LETTERS_DIR)/family.php \
+			$(LETTERS_DIR)/rouen.php \
+			$(LETTERS_DIR)/characters.php
 
 DEPS=$(DEPS_16) $(DEPS_17) $(DEPS_18) $(DEPS_MISC) pdf-styles.css book.php php/render.php
 
@@ -137,6 +142,15 @@ book.pdf: book.html
 
 book.html: $(DEPS)
 	php book.php > book.html
+
+mm: mm.pdf 
+	
+mm.pdf: mm.html
+	prince -s pdf-styles.css mm.html -o mm.pdf;
+
+
+mm.html: $(DEPS)
+	php mm.php > mm.html
 
 clean:
 	@rm book.html
