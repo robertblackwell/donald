@@ -15,7 +15,7 @@
 
 <p>Well darling I'm off to France again next week, unless pulled off by the dentist. Do not think this is likely as I&rsquo;ve only a small job to be done. Have sent two parcels containing clothes to Nellie, also sending another today, including my watch which has the screw which turns the hands broken. It's practically useless taking it overseas.</p>
 <div class='closing'>
-<p>Bernie is getting on well, down with Nelly this week. No news of George or Keith lately. Darling it is just about tea time so I'll ring off, will write again tomorrow. Of course there's no news to tell but as long as it's a letter, eh sweetheart. Look after Bubs and don't you smack him or when I get home, look out, you'll get a few smacks on the &hellip;.. and the lips to be sure, eh darling.
+<p>Bernie is getting on well, down with Nellie this week. No news of George or Keith lately. Darling it is just about tea time so I'll ring off, will write again tomorrow. Of course there's no news to tell but as long as it's a letter, eh sweetheart. Look after Bubs and don't you smack him or when I get home, look out, you'll get a few smacks on the &hellip;.. and the lips to be sure, eh darling.
 Love kisses and embraces to my darling wife and precious son, from your ever own and loving husband and father with oceans of love and kisses galore.</p>
 
 <p>XXXXXXXXXXXXXXXXXXXXX Hubby and Daddy</p>

@@ -17,7 +17,7 @@ Knook Camp, Heytesbury was an Artillery training base on the edge of Salisbury p
 Love kisses and embraces to my two darlings with millions and millions of kisses and oceans of kisses from your ever own loving husband and father.</p>
 <p>XXXXXXXXXXXXXXXXXXXXXX</p>
 <p>Don</p>
-<p>To Darling Neita and Bonny Neville</p>
+<!--p>To Darling Neita and Bonny Neville</p-->
 <!--p>*Heytesbury
 Knook Camp, Heytesbury was an Artillery training base on the edge of Salisbury plain, with Heytesbury House used as the officers&rsquo; quarters. From 1916 Australians occupied the camp. Heytesbury House was the home of Siegfried Sassoon, the first world war poet, from the 1930s until his death in 1967, aged 80.</p-->
 </div>

@@ -5,6 +5,7 @@
 		<div class='salutation'>
 			<span class='lh_el'>Amiens - La Gare du Nord</span>
 			<span class='lh_el'>France</span>
+			<span class='lh_el'>24th June 1917</span>
 			<span class='lh_el'>Postcard</span>
 		</div>
 		<p>My darling wife</p>

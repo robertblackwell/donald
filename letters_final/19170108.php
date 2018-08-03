@@ -10,7 +10,9 @@
 
 <div class='closing'>
 
-<p>Here are two excerpts found on postcards written about this time, neither are dated so I cannot be precise about the date. </p>
+<h4>Postcards</h4>
+<p>Here are two excerpts found on postcards written about this time, neither are dated so I cannot be precise about the date. 
+But best guess is that they were written sometime during the time covered by this letter.</p>
 
 <h3>First postcard</h3>
 <p>When we arrived on the parade ground we were supplied with rifles. Every available rifle in our own camp  and close camps were secured. Then our army of 400 started to march  off to _____   nobody knew. It was indeed a very anxious time, moving off and having absolutely no idea where we were going. And what a body, some with overcoats, some without, some leggings, some hats, some caps, some with leather boots, some with rubber boots, some short trousers, some long trousers, numbers without tunics, it was a mixed body. The reason for this was the urgency of our mission. Eventually we arrived in Amesbury, where a special train was waiting for us. Boarded the train.

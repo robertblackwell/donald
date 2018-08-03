@@ -21,7 +21,7 @@
 <div class='closing'>
 <p>Well dear another day over and nothing very startling.</p>
 
-<p>Out riding this afternoon also received another pay of 1/-/-<span class='fn'>1 pound no shillings and no pence, traditional notation for current value in old British (and Australian) pounds.</span>. Plenty of money for the present time. Saw the new Moon just a little while ago, of course had a wish. You can bet you're sweet life what it was. Have wrapped up a paper to send to dad and the soon as I finish this letter will drop a line to mum. I'm writing this in the YMCA ,&ldquo;Y Emma&rdquo; as it is known by the boys. Have not heard anything of Keith yet, I suppose he will soon reach this side.</p>
+<p>Out riding this afternoon also received another pay of 1/-/-<span class='fn'>1 pound no shillings and no pence, traditional notation for current value in old British (and Australian) pounds.</span>. Plenty of money for the present time. Saw the new Moon just a little while ago, of course had a wish. You can bet you're sweet life what it was. Have wrapped up a paper to send to dad and the soon as I finish this letter will drop a line to mum. I'm writing this in the YMCA ,&ldquo;Y Emma&rdquo; as it is known by the boys. Have not heard anything of Keith<span class='fn'>Don's brother</span> yet, I suppose he will soon reach this side.</p>
 
 <p>Wrote a letter to Nelly Fry the other day.</p>
 

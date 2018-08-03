@@ -46,7 +46,8 @@
 		<div class="ch_wrap">
 			<h1 id="ch2" class="chapter">1916</h1>
 				<?php 
-					$render_function ($letters_in_dir."/19161030.php" );
+					render_letter ("19161030.php" );
+					// $render_function ($letters_in_dir."/19161030.php" );
 					$render_function ($letters_in_dir."/19161114A.php");
 					// $render_function ($letters_in_dir."/19161114B.php"); // removed - too little content
 					$render_function ($letters_in_dir."/19161210.php");
@@ -65,7 +66,7 @@
 				<?php
 					$render_function ($letters_in_dir."/19170101.php");
 					$render_function ($letters_in_dir."/19170107.php");
-					$render_function ($letters_in_dir."/19170108.php");
+					// $render_function ($letters_in_dir."/19170108.php");
 					$render_function ($letters_in_dir."/19170111.php");
 					$render_function ($letters_in_dir."/19170113.php");
 					$render_function ($letters_in_dir."/19170114.php");

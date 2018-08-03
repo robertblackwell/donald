@@ -11,6 +11,32 @@
 <!-- --------------------------------------------------------------------------->
 <p>On Sunday 7th January we picked up nine destroyers one for each transport. It was a great sight, a sight never to be forgotten. Then there was a race for port the Marathon came first Benalla second. The last two days were very rough and bitterly cold but we thoroughly enjoy it. We arrived in Devenport Tuesday (9th January 1917) morning at 1 o'clock, up  out of bed at 4 o&rsquo;clock, breakfast at 5 o'clock and then got ready for going off. After a terrible lot of bother we got off the boat that afternoon at 2 o'clock and caught the train at 3 o'clock for Ainsbury arriving at 10:30 that night. Then we had to march 4 miles to our camp, turning into bed at 1 o'clock in the morning. My first impressions of old England are very good, what we saw of the country and towns was very fine indeed. We stopped at Exeter for about 15 minutes where refreshments were provided in bags by the towns people. In the bag was a  card which I am enclosing.Tea was also provided. It was simply lovely to be treated so cordially, we had not had anything to eat since five in the morning. All the boys greatly appreciated the good things. We are at present camped at Lark Hill, Ainsbury, (Amesbury) it is simply hell but we may only stay here a few days. Yesterday we had snow and today rain. It is that cold at present I can hardly write.</p>
 
+<div class='keep-together'>
+<h3>Postcards</h3>
+<p>Here are two excerpts found on postcards written about this time, neither are dated so I cannot be precise about the date. 
+But best guess is that they were written sometime during the time covered by this letter.</p>
+
+<h4>First postcard</h4>
+<p>When we arrived on the parade ground we were supplied with rifles. Every available rifle in our own camp  and close camps were secured. Then our army of 400 started to march  off to _____   nobody knew. It was indeed a very anxious time, moving off and having absolutely no idea where we were going. And what a body, some with overcoats, some without, some leggings, some hats, some caps, some with leather boots, some with rubber boots, some short trousers, some long trousers, numbers without tunics, it was a mixed body. The reason for this was the urgency of our mission. Eventually we arrived in Amesbury, where a special train was waiting for us. Boarded the train.
+</p>
+
+<!-- put postcard 1 here -->
+<?php \Postcard::render("170108-P-1-fixed"); ?>
+
+
+</div>
+
+<div class='keep-together'>
+
+<h4>Second postcard</h4>
+<p>As soon as we arrived at the station Bournemouth we were supplied with bully beef and bread. Then we marched off from the station. Great excitement reigned arriving in a town like this, no doubt, kiddie you can understand my feelings. Eventually the soldiers Institute was reached where cocoa was provided. Then marched to the skating rink where we slept for the night. Talk about a rink simply beautiful. A gigantic building where amusement's of every description are held. Early next morning, tea was provided and again moved off through beautiful Bournemouth.</p>
+
+<!-- put postcard 2 here-->
+<?php \Postcard::render("170108-P-3-fixed"); ?>
+</div>
+
+<h3>Back to the letter</h3>
+
 <p>Just had a great disappointment, the mail has just been brought and none for me, feel just anyhow but I suppose I will get them in a few days.  This is Friday, I left off this letter very abruptly last night. Joe Cook and a friend of his came in to see me. I also saw Joe the night before. We had a great talk over things, he is off to France tomorrow. George left about a fortnight ago, Stan Coldrake also left last week. Joe received a letter from Sid yesterday.</p>
 
 <p>After they left last night, what do you think I got, well the  letter gram you sent kiddie to the address in Melbourne. It was simply lovely darling, put me in good spirits, waiting very anxiously for your letters sweetheart. </p>

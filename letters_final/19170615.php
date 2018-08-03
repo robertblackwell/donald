@@ -12,7 +12,7 @@
 <!-- --------------------------------------------------------------------------->
 <div class='keep-together'>
 <p>Here are a few postcards which might be interest to you. Will write you a letter tomorrow. 
-The mail has just arrived but not sorted yet, so anxiously waiting to see if I receive any of my dear wife letters. Yesterday I had the day off and visited a very large town, one and half hour trip by train from here. Will give you all particulars in my later. Love and kisses to my darling wife from your ever own and loving husband.</p>
+The mail has just arrived but not sorted yet, so anxiously waiting to see if I receive any of my dear wife letters. Yesterday I had the day off and visited a very large town, one and half hour trip by train from here. Will give you all particulars in my letter. Love and kisses to my darling wife from your ever own and loving husband.</p>
 <p>Don</p>
 
 <?php Postcard::render("170615-P-1-fixed"); ?>

@@ -16,7 +16,7 @@
 <p>Today kiddie I received a postcard from Flo Roberts also two letters concerning Frank. One from headquarters which does not contain anything of importance and one from his unit which I am enclosing. If I should be in the district where he was buried you can rest assured I will do everything which you all at Charles Street would like to have done. 
 I wrote you the other day telling you how I first got the news.</p>
 <div class='closing'>
-<p>Will now ringing off sweetheart. Keep your pecker up, all will be well. I am okay. Hope my dear one is keeping in good health. Au revoir to my dear wife your ever own and loving husband with tons and tons of kisses.</p>
+<p>Will now ringing off sweetheart. Keep your pecker up, all will be well. I am okay. Hope my dear one is keeping in good health. Au revoir to my dear wife from your ever own and loving husband with tons and tons of kisses.</p>
 <p>Don</p>
 <p><span class='postscript'>PS</span>.  Have just received your first letter in France Number 41 simply grand. Will answer it in a day or so. </p>
 <p>Your loving husband.</p>

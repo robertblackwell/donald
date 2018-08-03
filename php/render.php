@@ -257,5 +257,64 @@ class Render
 
 
 }
+function proj_dir()
+{
+	$proj_dir = dirname(dirname(__FILE__));
+	return $proj_dir;	
+}
+function image_dir()
+{
+	$proj_dir = dirname(dirname(__FILE__));
+	return "{$proj_dir}/Scans";
+}
+function letters_dir()
+{
+	$proj_dir = dirname(dirname(__FILE__));
+	return "{$proj_dir}/letters_final";
+
+}
+function render_letter($file_name)
+{
+	$file_path = letters_dir()."/{$file_name}";
+	\Render::no_transform($file_path);
+}
+function render_postcard($file_name)
+{
+	\Postcard::render($file_name);
+}
+function render_signatures($file_name)
+{
+	Signatures::render($file_name);
+}
+function render_telegram($file_name)
+{
+	Telegram::render($file_name);
+}
+function money_footnote()
+{
+	$s = "<span class='fn'>see Appendix \"Money Notation\"<span>";
+	return $s;
+}
+function render_pound_shillings_pence($pounds, $shillings, $pence)
+{
+	if( is_null($pounds) || is_null($shillings) || is_null($pence)) {
+		throw new \Exception("one if the arguments is null");
+	}
+	$s = "{$pounds}/{$shillings}/{$pence}".money_footnote();
+}
+function render_shillings_pence($shillings, $pence)
+{
+	if( is_null($shillings) || is_null($pence)) {
+		throw new \Exception("one if the arguments is null");
+	}
+	$s = "{$shillings}/{$pence}".money_footnote();
+}
+function render_pence($pence)
+{
+	if( is_null($pence)) {
+		throw new \Exception("one if the arguments is null");
+	}
+	$s = "{$pence}p".money_footnote();
+}
 
 ?>

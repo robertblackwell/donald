@@ -17,9 +17,9 @@
 <p>Received a letter from Mrs Suttin at &lsquo;Halls&rdquo;. It contained photos of all the girls etc at the office, also several notes from different ones on the staff. She told me about you sweetheart, being in with bubs and what a beautiful boy, she said just like his father, eh what beautiful. Also got a very old letter from Keith. Have not heard anything yet of his being in Blighty, but expect him any day now. The weather has been bitterly cold of late. Sunday for the first time we had a fall of snow and every day since.</p>
 <div class='closing'>
 <p>I suppose Neville is getting to be quite a little man, don't put him in long trousers too soon dear one. Fancy Christmas next week how time flies, thought I would be back in Australia by this Christmas, surely next one will see me with my two darlings. Sent the last of my photos away today to Annie and Dorothy Roberts. Fritz has been smashing London up again. </p>
-<p>Au revoir for the present with love kisses and embraces to my darling wife and bonny son, with scores and scores of kisses and oceans of love from your ever own and loving husband and father
-                                Don
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
+<p>Au revoir for the present with love kisses and embraces to my darling wife and bonny son, with scores and scores of kisses and oceans of love from your ever own and loving husband and father.</p>
+<p>Don</p>
+<p>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
 <p>More cigarette cards for Chas</p>
 </div>
 </div><!-- letter -->
