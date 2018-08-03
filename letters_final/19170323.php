@@ -18,7 +18,7 @@
 <p>Wednesday and Thursday snow fell continuously. Snow balling was in full swing, and of course yours truly did his share.</p>
 <p>Well dearest wife, how are you getting on, suppose you are anxiously waiting for the great event, buck up sweetheart all will be well. I'm always thinking of you and hoping everything will be okay, which I'm sure it will be. There will be great excitement in dear old Maitland then.</p>
 <div class='closing'>
-<p>Wish I could be with you darling but never mind I'll get back to you and little Mac as soon as I possibly can, you can rest assured of that point. I'm keeping good health and feel just the thing. Give my love to the Mater<span class='fn'>I believe this is Don's mother</span> and tell the boss<span class='fn'>I believe this is Don's father</span> to hurry up with a letter or two.</p>
+<p>Wish I could be with you darling but never mind I'll get back to you and little Mac as soon as I possibly can, you can rest assured of that point. I'm keeping good health and feel just the thing. Give my love to the <?php render_mother("Mater");?> and tell the <?php render_father("boss");?> to hurry up with a letter or two.</p>
 <p>With tons and tons of kisses to my darling wife from your ever own and loving husband with kisses and embraces galore.</p>
 <p>Don</p>
 <p>Here are a few more sweetheart xxxxxxxxxxxxx by jove I&rsquo;ll make things hum when I get back to you love. Bet your life eh Kiddie.</p>
@@ -26,7 +26,5 @@
 .-.. .. -  -  .-.. .   - -  .- -.-.
 L    I  T  T  L    E   M    A  C
 </pre>
-<!--p>Mater I believe is his mum</p>
-<p>** Boss I believe is his dad</p-->
 </div>
 </div><!-- letter -->

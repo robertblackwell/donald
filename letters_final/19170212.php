@@ -14,7 +14,7 @@
 Of course, 'knocked into a cocked hat' only makes any sense if you know what cocked hats are. These were hats, popular at the end of the 18th century, that had turned up (that is, cocked) brims. They were usually tricorn (that is, three-cornered) hats and were often worn as part of some form of regalia.
 </span>.
 
-The Tariff is very reasonable 6/6p bed and breakfast. Have not written a letter regarding the London trip yet, will do so tomorrow. Did not see much of this room, no use for it. Will explain everything in my letter. Would have given anything if you dear could have been with me. Never mind there is a good time coming, eh kiddie.</p>
+The Tariff is very reasonable <?php render_shillings_pence(6,6); ?> bed and breakfast. Have not written a letter regarding the London trip yet, will do so tomorrow. Did not see much of this room, no use for it. Will explain everything in my letter. Would have given anything if you dear could have been with me. Never mind there is a good time coming, eh kiddie.</p>
 <p>Love and kisses, tons of love</p>
 <p>From your ever own loving husband</p>
 <p>Don</p>
@@ -23,7 +23,7 @@ Of course, 'knocked into a cocked hat' only makes any sense if you know what coc
 
 <h4>Postcard  The Drawing Room, Strand Palace Hotel</h4>
 
-<?php \Postcard::render("170212-P-1-fixed"); ?>
+<?php \render_postcard("170212-P-1-fixed"); ?>
 
 </div>
 </div><!-- letter -->

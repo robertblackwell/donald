@@ -28,10 +28,10 @@ AIF Abroad
 <p><span class='postscript'>PS</span>. Address everything to Nellie Fry   Love Don</p>
 
 
-<?php \Postcard::render("170605-P-1-fixed"); ?>
-<?php \Postcard::render("170605-P-3-fixed"); ?>
-<?php \Postcard::render("170605-P-5-fixed"); ?>
-<?php \Postcard::render("170605-P-7-fixed"); ?>
+<?php \render_postcard("170605-P-1-fixed"); ?>
+<?php \render_postcard("170605-P-3-fixed"); ?>
+<?php \render_postcard("170605-P-5-fixed"); ?>
+<?php \render_postcard("170605-P-7-fixed"); ?>
 
 </div>
 </div><!-- letter -->

@@ -14,7 +14,7 @@
 <p>Season's greetings love well</p>
 <p>Don McDonald</p-->
 
-<?php Telegram::render("171225-T-1-fixed"); ?>
+<?php render_telegram("171225-T-1-fixed"); ?>
 
 </div>
 </div><!-- letter -->

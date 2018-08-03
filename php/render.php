@@ -290,31 +290,62 @@ function render_telegram($file_name)
 {
 	Telegram::render($file_name);
 }
-function money_footnote()
+function money_footnote($after)
 {
-	$s = "<span class='fn'>see Appendix \"Money Notation\"<span>";
+	$s = "<span class='fn'>see Appendix entitled Money Notation{$after}</span>";
 	return $s;
 }
-function render_pound_shillings_pence($pounds, $shillings, $pence)
+function description_pounds_shillings_pence($pounds, $shillings, $pence)
+{
+	if($shillings == '-') $sh = '0';  else $sh = $shillings;
+	if($pence == '-') $pe = '0'; else $pe = $pence;
+	return "{$pounds} pounds {$sh} shillings {$pe} pence";
+}
+function description_shillings_pence($shillings, $pence)
+{
+
+	if($shillings == '-') $sh = '0'; else $sh = $shillings;
+	if($pence == '-') $pe = '0'; else $pe = $pence;
+	return "{$sh} shillings {$pe} pence";
+}
+function description_pence($pence)
+{
+	return "{$pence} pence";
+}
+function render_pounds_shillings_pence($pounds, $shillings, $pence)
 {
 	if( is_null($pounds) || is_null($shillings) || is_null($pence)) {
 		throw new \Exception("one if the arguments is null");
 	}
-	$s = "{$pounds}/{$shillings}/{$pence}".money_footnote();
+	$s = "{$pounds}/{$shillings}/{$pence}".money_footnote(" - ". description_pounds_shillings_pence($pounds, $shillings, $pence));
+	print $s;
 }
 function render_shillings_pence($shillings, $pence)
 {
 	if( is_null($shillings) || is_null($pence)) {
 		throw new \Exception("one if the arguments is null");
 	}
-	$s = "{$shillings}/{$pence}".money_footnote();
+	$s = "{$shillings}/{$pence}".money_footnote(" - ". description_shillings_pence($shillings, $pence));
+	print $s;
 }
 function render_pence($pence)
 {
 	if( is_null($pence)) {
 		throw new \Exception("one if the arguments is null");
 	}
-	$s = "{$pence}p".money_footnote();
+	$s = "{$pence}p".money_footnote(" - ".description_pence($pence));
+	print $s;
+}
+
+function render_father($in)
+{
+	$s = "{$in}<span class='fn'>Don's father see Appendix entitled Characters</span>";
+	print $s;
+}
+function render_mother($in)
+{
+	$s = "{$in}<span class='fn'>Don's mother see Appendix entitled Characters</span>";
+	print $s;
 }
 
 ?>

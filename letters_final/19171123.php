@@ -14,7 +14,7 @@
 <p>Here are the post cards of Warminster. Not too bad a place. Hope to be spending tomorrow there. Was to have gone on draft today but pulled off at the last minute. Dearest excuse these few words. Have just written three letters and the boys want me to go to the pictures. Will write again tomorrow to my darliings. Love and kisses in galore to my sweatheart wife and darling son.</p>
 <p>Hubby and Daddy Don</p>
 
-<?php Postcard::render("171123-P-1-fixed"); ?>
+<?php render_postcard("171123-P-1-fixed"); ?>
 
 </div>
 </div><!-- letter -->

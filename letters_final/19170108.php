@@ -19,7 +19,7 @@ But best guess is that they were written sometime during the time covered by thi
 </p>
 
 <!-- put postcard 1 here -->
-<?php \Postcard::render("170108-P-1-fixed"); ?>
+<?php \render_postcard("170108-P-1-fixed"); ?>
 
 
 </div>
@@ -30,7 +30,7 @@ But best guess is that they were written sometime during the time covered by thi
 <p>As soon as we arrived at the station Bournemouth we were supplied with bully beef and bread. Then we marched off from the station. Great excitement reigned arriving in a town like this, no doubt, kiddie you can understand my feelings. Eventually the soldiers Institute was reached where cocoa was provided. Then marched to the skating rink where we slept for the night. Talk about a rink simply beautiful. A gigantic building where amusement's of every description are held. Early next morning, tea was provided and again moved off through beautiful Bournemouth.</p>
 
 <!-- put postcard 2 here-->
-<?php \Postcard::render("170108-P-3-fixed"); ?>
+<?php \render_postcard("170108-P-3-fixed"); ?>
 
 </div>
 </div><!-- letter -->

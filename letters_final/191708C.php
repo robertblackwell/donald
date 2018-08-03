@@ -14,6 +14,6 @@ Possibly August 1917
 <div class='closing'>
 <p>Your loving husband and father. Don</p>
 
-<?php \Postcard::render("1708C-P-1-fixed"); ?>
+<?php \render_postcard("1708C-P-1-fixed"); ?>
 </div>
 </div><!-- letter -->

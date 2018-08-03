@@ -17,7 +17,7 @@
 <p>XXXXXXXXXXXXXXXXXXXX</p>
 <p>Don</p>
 
-<?php \Postcard::render("170624-P-1-fixed"); ?>
+<?php \render_postcard("170624-P-1-fixed"); ?>
 
 </div>
 </div><!-- letter -->

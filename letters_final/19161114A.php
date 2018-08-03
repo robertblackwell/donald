@@ -13,7 +13,7 @@
 <div class='closing'>
 <p>Hope you are in the best of health. To my darling wife from your ever true loving husband with XXXXX Don</p>
 
-<?php Postcard::render("161114-P-1-fixed"); ?>
+<?php render_postcard("161114-P-1-fixed"); ?>
 
 </div>
 </div><!-- letter -->

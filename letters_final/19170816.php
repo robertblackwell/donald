@@ -37,7 +37,7 @@ Base records
 <p>My darling wife</p>
 <p>Our division is still out resting and the boys are having a grand time</p>
 
-<?php Postcard::render("170816-T-1-fixed"); ?>
+<?php render_postcard("170816-T-1-fixed"); ?>
 
 </div>
 </div><!-- letter -->

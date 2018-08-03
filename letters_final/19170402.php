@@ -18,7 +18,8 @@
 <p>December sunshine two hours</p>
 <p>January sunshine 3 1/2 hours</p>
 <p>February sunshine five and three-quarter hours</p>
-<p>Gives one some idea what this country is like in wintertime. Of course in summer a different tale will be told, but give me dear old Maitland. Going to drop a line to Mrs. Smith  as soon as I finish this. She's going to send me a book to read Chestertons, &ldquo;Ballard of the White Horse&rdquo;. Won&rsquo;t have much time to read it but will do my best. Hope to be able to write the mater a few lines tonight also. </p>
+<p>Gives one some idea what this country is like in wintertime. Of course in summer a different tale will be told, but give me dear old Maitland. Going to drop a line to Mrs. Smith  as soon as I finish this. She's going to send me a book to read Chestertons, &ldquo;Ballard of the White Horse&rdquo;. Won&rsquo;t have much time to read it but will do my best. Hope to be able to write the 
+	<?php render_mother("mater");?> a few lines tonight also. </p>
 <div class='closing'>
 <p>Au revoir for the present sweetheart, sincerely hope to receive your letters tomorrow. It will be simply grand to receive some more letters, seems like months since I've had any news from my darling. Snowing heavily at present. Hope you are keeping in the best of health and everything moving along okay towards the great event. Darling I would give anything to be with you, but of course that cannot be. I will get there as soon as I possible can. My thoughts are continually on you sweetheart and wishing you every thing of the best. Will write you again in a day or so. Love kisses and embraces to my darling wife from your ever loving and devoted husband with tons and tons of kisses.</p>
 <p>Don  xxxxxxxxxxxxxxxxxxxxxx and oooooooooooo</p>

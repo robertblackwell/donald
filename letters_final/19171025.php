@@ -16,38 +16,8 @@
 <p>The photo of yourself, mother and auntie is just &rsquo;it&rsquo;. But why kiddie did you not stand in the front and show off your beauty.  I would not have minded, could have given my eyes a feast off it. What can I hear you saying dear never mind, keep the rousing until I return to my two dear ones. Nurse will have her time cut out now looking after three. How would you like to have had three, first shot Kiddie, what a family. Got rather  a surprise when I heard that Vera and Bill were married, you gave her the right advice, as for the good time, well I guess, wish we were having the same good time now darling. Never mind when I return we will make up for the time I've been away, bet your sweet life.  Not too much of your scrambled eggs and toast, makes my mouth water dear. You said in one of your letters that you were including Nurse Braye&rsquo;s address, well darling I cannot find it, you must be in love no doubt about that, eh darling. As you desire sweetheart will enclose a couple of my signatures. It is simply grand to read your letter, the first one written after our darling came on the scene. It was the first letter giving me the exact time of His Majesty's arrival. Can well imagine the excitement at Charles Street. Would have given everything I possess to have been with you darling, but I'll make up for it when the second, third, fourth, &hellip;&hellip;.. twelfth arrives.</p>
 
 
-<!--p>Signatures</p>
-<pre>D McDonald
-Donald McDonald
-D.C. McDonald
-Donald C McDonald
-Donald Cameron McDonald
-D Cameron McDonald
-DMcD.       DCMcD.  Mac Don
-Donald
-McDonald D.C.
-McDonald Donald C
-McDonald Donald Cameron
-McDonald D. Cameron</pre>
-<p>Signatures continued</p>
-<pre>Husband
-Hubby
-Father
-Dad
-Daddy
-Old man
-Pa
-Papa
-Boss
-Scot
-Better half
-Dada
-
-<p>And every day</p>
-<pre> Don</pre-->
-
-<?php Signatures::render("171025-P-1-fixed"); ?>
-<?php Signatures::render("171025-P-2-fixed"); ?>
+<?php render_signatures("171025-P-1-fixed"); ?>
+<?php render_signatures("171025-P-2-fixed"); ?>
 <div class=closing'>
 <p>Received a letter from Stan Coaldrake this afternoon. He is well. After spending four weeks at the battery he returned to the school, drawing rations for the staff. It's a good job and Stan is certain to hang on to it. Suppose my little darling is making rapid progress now, what a good time you must be having, kiddie. Always trying to imagine what my two loved ones are doing. Remember me to all friends. Love to Regent and Charles Street folk.
 Love kisses and embraces to my own dear wife and darling son from your ever own and loving husband and father with the oceans of love and millions of kisses.</p>

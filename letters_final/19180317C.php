@@ -16,7 +16,7 @@
 <p>Au revoir for the present. Love and kisses to my darling wife and bonny sun from your ever own loving hubby and daddy.  Don
 </p>
 
-<?php Postcard::render("180317-P-1-fixed"); ?>
-<?php Postcard::render("180317-P-3-fixed"); ?>
+<?php render_postcard("180317-P-1-fixed"); ?>
+<?php render_postcard("180317-P-3-fixed"); ?>
 </div>
 </div><!-- letter -->

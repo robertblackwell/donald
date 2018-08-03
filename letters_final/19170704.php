@@ -15,7 +15,7 @@
 <p>Don</p>
 
 
-<?php Postcard::render("170704-P-1-fixed"); ?>
+<?php render_postcard("170704-P-1-fixed"); ?>
 
 </div>
 </div><!-- letter -->
