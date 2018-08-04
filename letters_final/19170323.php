@@ -1,5 +1,5 @@
 
-<div class='letter'>
+<div class='letter postcard'>
 	<div class='letter_head'>
 
 		<div class='salutation'>
@@ -17,7 +17,7 @@
 <p>Wrote to head quarters inquiring about Keith, received an answer today. They know nothing about him so far. </p>
 <p>Wednesday and Thursday snow fell continuously. Snow balling was in full swing, and of course yours truly did his share.</p>
 <p>Well dearest wife, how are you getting on, suppose you are anxiously waiting for the great event, buck up sweetheart all will be well. I'm always thinking of you and hoping everything will be okay, which I'm sure it will be. There will be great excitement in dear old Maitland then.</p>
-<div class='closing'>
+<div class='keep-together'>
 <p>Wish I could be with you darling but never mind I'll get back to you and little Mac as soon as I possibly can, you can rest assured of that point. I'm keeping good health and feel just the thing. Give my love to the <?php render_mother("Mater");?> and tell the <?php render_father("boss");?> to hurry up with a letter or two.</p>
 <p>With tons and tons of kisses to my darling wife from your ever own and loving husband with kisses and embraces galore.</p>
 <p>Don</p>
@@ -27,4 +27,23 @@
 L    I  T  T  L    E   M    A  C
 </pre>
 </div>
+
+<div class='keep-together'>
+<p>This was an every day scene for weeks. Taken shortly after the first fall of snow. Our hut is on the left. Note the icicles on our roof. Later we measured that some are two and a half feet long.</p>
+
+<?php render_postcard("170323-P-1-fixed");?>
+</div>
+
+<div class='keep-together'>
+<p>Our signalling class doing morse flag drill in snow. Ypours truly marked by an X. During spells a great snow fight took place.</p>
+
+<?php render_postcard("170323-P-2-fixed");?>
+</div>
+
+<div class='keep-together'>
+<p>Fountain in the courtyard at Westminster Abbey. The two large pillars on each side of the fountain are pillars of ice. Also it saw it spraying fully in the absence of ice and snow. Far better sight than the photo indicates.</p>
+
+<?php render_postcard("170323-P-3-fixed");?>
+</div>
+
 </div><!-- letter -->

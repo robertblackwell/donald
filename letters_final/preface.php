@@ -3,16 +3,15 @@
 <p>I am Nina Marguerite Blackwell (nee McDonald), the author or compiler of this book, and the eldest of three 
 grand children (all daughters) of Donald and Neita, and eldest daughter of Frank Neville Cameron McDonald the only child of Donald and Neita.</p>
 
-<p>For most of my life I knew that my grandfather had died in the Great War and that my paternal grand mother
-had raised her only child (my father) by herself. But that story was history and like children and young adults everywhere
-my focus was on my own life and looking forward.</p>
+<p>For all of my life I knew that my grandfather had died in the Great War and that my paternal grand mother
+had raised her only child (my father) by herself. But as I grew up that story was history and like children and young adults everywhere my focus was on my own life and looking forward.</p>
 
-<p>In recent years as I have become elderly I have begun to acquire an interest in the story of my fathers parents,
+<!--p>In recent years as I have become elderly I have begun to acquire an interest in the story of my fathers parents,
 an interest that has been facilitated by the fact that many of the letters and postcards Donald send to Neita during those war years 
 remain in the families possession. But of course I now regret the opportunity I missed by not delving into this 
-topic while Neita and others of her generation where alive.</p>
+topic while Neita and others of her generation where alive.</p-->
 
-<p>As each of the Grandchildren have aged and decided to downsize their homes Donald's letters, cards and other documents from the war years have been moved several times. On the last move the three grand daughters decided that all three should examine all document remaining from our grandparents and parents.</p>
+<p>As each of the grand daughters have aged and decided to downsize their homes Donald's letters, cards and other documents from the war years have been moved several times. On the last move the three grand daughters decided that all three should examine all document remaining from our grandparents and parents.</p>
 
 <p>Examination of Donald's correspondence revealed that the documents, mostly written in ink but some in pencil, would you not last much longer. Many were after all over 100 years old, and others nearly so. As the eldest granddaughter I took on the task of 
 digitalising them, before they were lost forever.</p> 

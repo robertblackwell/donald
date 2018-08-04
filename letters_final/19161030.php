@@ -3,7 +3,7 @@
 	<div class='letter_head'>
 
 		<div class='salutation'>
-			<span class='lh_el'>Tuesday 30th October 1916 <span class='fn'>The date of this letter was not provided so I estimated it from other information</span> </span>
+			<span class='lh_el'>Tuesday 30th October 1916</span>
 		</div>
 		<p>Dear mother</p>
 	</div><!-- end class='letter_header'-->

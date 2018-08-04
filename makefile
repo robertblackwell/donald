@@ -38,6 +38,7 @@ DEPS_17=$(LETTERS_DIR)/19170101.php \
 		$(LETTERS_DIR)/19170319.php \
 		$(LETTERS_DIR)/19170323.php \
 		$(LETTERS_DIR)/19170325.php \
+		$(LETTERS_DIR)/19170326.php \
 		$(LETTERS_DIR)/19170328.php \
 		$(LETTERS_DIR)/19170402.php \
 		$(LETTERS_DIR)/19170405.php \
@@ -57,6 +58,7 @@ DEPS_17=$(LETTERS_DIR)/19170101.php \
 		$(LETTERS_DIR)/19170610.php \
 		$(LETTERS_DIR)/19170615.php \
 		$(LETTERS_DIR)/19170616.php \
+		$(LETTERS_DIR)/19170617c.php \
 		$(LETTERS_DIR)/19170619.php \
 		$(LETTERS_DIR)/19170621.php \
 		$(LETTERS_DIR)/19170624.php \
@@ -66,6 +68,8 @@ DEPS_17=$(LETTERS_DIR)/19170101.php \
 		$(LETTERS_DIR)/191708C.php \
 		$(LETTERS_DIR)/19170816.php \
 		$(LETTERS_DIR)/19170907C.php \
+		$(LETTERS_DIR)/19170909A.php \
+		$(LETTERS_DIR)/19170909.php \
 		$(LETTERS_DIR)/19171009.php \
 		$(LETTERS_DIR)/19171015.php \
 		$(LETTERS_DIR)/19171021.php \
@@ -133,6 +137,7 @@ DEPS_MISC= $(LETTERS_DIR)/australian_camps.php \
 			$(LETTERS_DIR)/preface.php \
 			$(LETTERS_DIR)/family.php \
 			$(LETTERS_DIR)/rouen.php \
+			$(LETTERS_DIR)/influenza.php \
 			$(LETTERS_DIR)/characters.php
 
 DEPS=$(DEPS_16) $(DEPS_17) $(DEPS_18) $(DEPS_MISC) pdf-styles.css book.php php/render.php
@@ -155,3 +160,26 @@ mm.html: $(DEPS)
 clean:
 	@rm book.html
 	@rm book.pdf
+
+
+#  rsync final book to robblackwell@robblackwell.webfactional.com/webapps/rblackwell/book.pdf
+
+LOCAL_ROOT=$(shell pwd)
+PROJECT_ROOT = $(shell pwd)
+
+
+TARGET=rblackwell
+USER=robblackwell
+HOST=robblackwell.webfactional.com
+
+REMOTE_ROOT=$(USER)@$(HOST):/home/$(USER)/webapps/$(TARGET)/
+
+
+RSYNC=sshpass -p wara2074 rsync -atvr --delete --progress
+# RSYNC=echo
+DRY_RUN_DATA=--dry-run
+
+deploy : git_clean  version
+	make send
+send:
+	$(RSYNC) book.pdf    		$(REMOTE_ROOT)

@@ -26,7 +26,7 @@
 	}
 ?>
 
-		<div class="contents">
+		<div id="pre-content" class="pre-contents">
 			<h1>My Darling Wife</h1>
 
 			<ul class="toc">
@@ -35,7 +35,7 @@
 				<li><a href="#ch2">Letters 1916</a></li>
 				<li><a href="#ch3">Letters 1917</a></li>
 				<li><a href="#ch4">Letters 1918</a></li>
-				<li><a href="#wedding">Wedding</a></li>
+				<!--li><a href="#wedding">Wedding</a></li-->
 				<li><a href="#casualties">War Casualty</a></li>
 				<li><a href="#australian_camps">Australian Army Camps in Britain</a></li>
 				<li><a href="#money">Money</a></li>
@@ -43,13 +43,17 @@
 				<li><a href="#mm">Summary of Letters and Diary, by M. McGrath</a></li>
 				<li><a href="#family">Donald's Family</a></li>
 				<li><a href="#rouen">Map of Rouen War Cemetery</a></li>
+				<li><a href="#rouen">The Influenza Epidemic of 1918</a></li>
 			</ul>
 
+
+
+			<h1 id="preface" class="chapter">Preface</h1>
+				<?php render_letter("preface.php"); ?>
+		
 		</div>
 
-
-		<h1 id="preface" class="chapter">Preface</h1>
-			<?php render_letter("preface.php"); ?>
+		<!-- <p id="blnk" style="page-break-after: always"></p> -->
 
 		<h1 id="ch1" class="chapter">Introduction</h1>
 			<?php render_letter("introduction.php"); ?>
@@ -124,6 +128,7 @@
 					 render_letter("19170319.php");
 					 render_letter("19170323.php");
 					 render_letter("19170325.php");
+					 render_letter("19170326.php");
 					 render_letter("19170328.php");
 					 render_letter("19170402.php");
 					 render_letter("19170405.php");
@@ -143,6 +148,7 @@
 					 render_letter("19170610.php");
 					 render_letter("19170615.php");
 					 render_letter("19170616.php");
+					 render_letter("19170617c.php");
 					 render_letter("19170619.php");
 					 render_letter("19170621.php");
 					 render_letter("19170624.php");
@@ -152,6 +158,8 @@
 					 render_letter("191708C.php");
 					 render_letter("19170816.php");
 					 render_letter("19170907C.php");
+					 render_letter("19170909A.php");
+					 render_letter("19170909.php");
 					 render_letter("19171009.php");
 					 render_letter("19171015.php");
 					 render_letter("19171021.php");
@@ -234,10 +242,10 @@
 				<?php render_letter("war_casualties.php") ;?>
 		</div>
 
-		<div class="ch_wrap">
+		<!--div class="ch_wrap">
 			<h1 id="wedding" class="chapter">Wedding</h1>
 				<?php render_letter("wedding.php"); ?>	
-		</div>
+		</div-->
 		<div class="ch_wrap">
 			<h1 id="money" class="chapter">Money</h1>
 				<?php render_letter("money.php");?>	
@@ -260,6 +268,11 @@
 		<div class="ch_wrap">
 			<h1 id="rouen" class="chapter">Map of Ruoen War Cemetery</h1>
 				<?php render_letter("rouen.php"); ?>
+		</div>		
+
+		<div class="ch_wrap">
+			<h1 id="flu" class="chapter">The Influenza Rpidemic of 1918</h1>
+				<?php render_letter("influenza.php"); ?>
 		</div>		
 
 	</body>

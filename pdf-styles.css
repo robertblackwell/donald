@@ -33,7 +33,7 @@ div.prefrontcover {
 
 div.frontcover { 
 	page: cover; 
-	content: url("Scans/don_portrait_oval_2.png");
+	content: url("Scans/don_cover.png");
 	width: 100%;
 	height: 100%; 
 }
@@ -48,7 +48,7 @@ Bottom left we display the title of the book, bottom right the page using a CSS 
 	 @bottom-left {
 			 margin: 10pt 0 30pt 0;
 			 border-top: .25pt solid #666;
-		 content: "My Darling Wife";
+		 content: "To My Darling Wife";
 			 font-size: 9pt;
 			 color: #333;
 	 }
@@ -73,7 +73,7 @@ Bottom right book title, bottom left current page */
 	 @bottom-right {
 			 margin: 10pt 0 30pt 0;
 			 border-top: .25pt solid #666;
-			 content: "My Darling Wife";
+			 content: "To My Darling Wife";
 			 font-size: 9pt;
 			 color: #333;
 	 }
@@ -83,6 +83,64 @@ Bottom right book title, bottom left current page */
 			 content: counter(page);
 			 font-size: 9pt;
 	 }
+}
+
+/** experiment */
+
+@page prefix :left {
+		@bottom-left{
+			content: normal;
+		}
+}
+
+@page prefix :right {
+		@bottom-right{
+			content: normal;
+		}
+}
+
+#pre-content {
+	page: prefix;
+}
+
+/* experiment */
+
+/*
+@page:nth(2):left {
+		@bottom-left {
+			content: normal;
+		}
+}
+@page:nth(2):right{
+		@bottom-right {
+			content: normal;
+		}	
+}
+@page:nth(3):left {
+		@bottom-left {
+			content: normal;
+		}
+}
+@page:nth(3):right{
+		@bottom-right {
+			content: normal;
+		}	
+}
+@page:nth(4):left {
+		@bottom-left {
+			content: normal;
+		}
+}
+@page:nth(4):right{
+		@bottom-right {
+			content: normal;
+		}	
+}
+*/
+
+#ch1 {
+	counter-reset: page 1;
+	/*counter-increment: page;*/
 }
 
 /* first page */
@@ -124,8 +182,8 @@ h1.chapter:before {
 
 /* increment and display figure counter */
 figcaption:before {
-	counter-increment: figurenum;
-	content: counter(chapternum) "-" counter(figurenum) ". ";
+/*	counter-increment: figurenum;
+	content: counter(chapternum) "-" counter(figurenum) ". ";*/
 }
 
 /* footnotes */
@@ -294,4 +352,8 @@ tr  td:first-child {
 	vertical-align: top;
 	/*background-color : pink;*/
 	width : 6em;
+}
+
+#preface:last-child {
+	counter-reset: page;
 }

@@ -5,7 +5,6 @@
 		<div class='salutation'>
 			<span class='lh_el'>France</span>
 			<span class='lh_el'>5th June 1917</span>
-			<span class='lh_el'>POSTCARD</span>
 		</div>
 		<p>My darling wife</p>
 	</div><!-- end class='letter_header'-->
