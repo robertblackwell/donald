@@ -28,13 +28,13 @@ Haley Maree Russell,
 Sherryn Lee Russell
 </pre>
 <span xstyle='font-weight:bold;color:navy; margin-bottom:0px; padding-bottom:0px'>Great Great Grandfather of </span> 
-<pre xstyle='margin-top: 0px; padding-top:0px;'>Joshua McKinnon,
-Wade McKinnon,
-Alex McKinnon,
-Hugh McGrath,
-William McGrath,
-Vincent McGrath,
-Scout McGrath,
-Elle McGrath
+<pre xstyle='margin-top: 0px; padding-top:0px;'>Joshua James McKinnon,
+Wade John McKinnon,
+Alex Christopher McKinnon,
+Hugh George McGrath,
+William James McGrath,
+Vincent Milton McGrath,
+Scout Ivy McGrath,
+Elle Reid McGrath
 </pre>
 </div>

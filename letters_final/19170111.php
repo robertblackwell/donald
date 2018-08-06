@@ -37,7 +37,7 @@ But best guess is that they were written sometime during the time covered by thi
 
 <h3>Back to the letter</h3>
 
-<p>Just had a great disappointment, the mail has just been brought and none for me, feel just anyhow but I suppose I will get them in a few days.  This is Friday, I left off this letter very abruptly last night. Joe Cook and a friend of his came in to see me. I also saw Joe the night before. We had a great talk over things, he is off to France tomorrow. George left about a fortnight ago, Stan Coldrake also left last week. Joe received a letter from Sid yesterday.</p>
+<p>Just had a great disappointment, the mail has just been brought and none for me, feel just anyhow but I suppose I will get them in a few days.  This is Friday, I left off this letter very abruptly last night. Joe Cook and a friend of his came in to see me. I also saw Joe the night before. We had a great talk over things, he is off to France tomorrow. George left about a fortnight ago, Stan Coaldrake also left last week. Joe received a letter from Sid yesterday.</p>
 
 <p>After they left last night, what do you think I got, well the  letter gram you sent kiddie to the address in Melbourne. It was simply lovely darling, put me in good spirits, waiting very anxiously for your letters sweetheart. </p>
 

@@ -1,3 +1,4 @@
+<?php include dirname(__FILE__)."/php/render.php"; ?>
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 	<head>
@@ -8,26 +9,25 @@
 		<meta name="date" content="2017, 2018"/>
 	</head>
 	<body>
-		<div class="frontcover"></div>
+		<div id="cover_page" class="frontcover"></div>
+		<div id="title_page" xstyle="margin-left: 0; background-color: grey;">
+			<div>
+				<div id="tp_title">
+					<!-- <p>&ldquo;To My Darling Wife&rdquo;</p> -->
+					<p>To My Darling Wife</p>
+				</div>
+				<div id="tp_subtitle">
+					<span>Letters from Donald Cameron McDonald to his wife Neita Somerville McDonald (nee Fry), 1916, 1917, 1918<br></span>
+				</div>
+				<div id="tp_author">
+					<span id="tp_author_compiledby" >Compiled by</span> 
+					<span id="tp_author_name">Nina Marguerite Blackwell (nee McDonald)</span>
+				</div>
+			</div>
+		</div>
 
-
-<?php include dirname(__FILE__)."/php/render.php"; ?>
-<?php
-//
-// this code is obsolete
-//
-	$transform = false;
-	if( ! $transform) {
-		$letters_in_dir = dirname(__FILE__)."/letters_final"; 
-		$render_function = "\\Render::no_transform";
-	} else {
-		$letters_in_dir = dirname(__FILE__)."/letters"; 
-		$render_function = "\\Render::with_transform";
-	}
-?>
-
-		<div id="pre-content" class="pre-contents">
-			<h1>My Darling Wife</h1>
+		<div id="toc" class="toc pre-contents">
+			<h1>To My Darling Wife</h1>
 
 			<ul class="toc">
 				<li><a href="#preface">Preface</a></li>
@@ -43,20 +43,23 @@
 				<li><a href="#mm">Summary of Letters and Diary, by M. McGrath</a></li>
 				<li><a href="#family">Donald's Family</a></li>
 				<li><a href="#rouen">Map of Rouen War Cemetery</a></li>
-				<li><a href="#rouen">The Influenza Epidemic of 1918</a></li>
+				<li><a href="#rouen">1918 Flu Pandemic</a></li>
+				<li><a href="#blacksmith">the Village Blacksmith, by Henry Longfellow</a></li>
 			</ul>
+		</div>
 
-
-
-			<h1 id="preface" class="chapter">Preface</h1>
+		<div id="preface">
+			<h1 class="chapter">Preface</h1>
 				<?php render_letter("preface.php"); ?>
 		
 		</div>
 
 		<!-- <p id="blnk" style="page-break-after: always"></p> -->
 
-		<h1 id="ch1" class="chapter">Introduction</h1>
-			<?php render_letter("introduction.php"); ?>
+		<div id = "intro" class="ch_wrap">
+			<h1 id="ch1" class="chapter">Introduction</h1>
+				<?php render_letter("introduction.php"); ?>
+		</div>
 
 		<!--img src="images/z025.png" /-->
 
@@ -160,6 +163,8 @@
 					 render_letter("19170907C.php");
 					 render_letter("19170909A.php");
 					 render_letter("19170909.php");
+					 render_letter("19170911.php");
+					 render_letter("19170927.php");
 					 render_letter("19171009.php");
 					 render_letter("19171015.php");
 					 render_letter("19171021.php");
@@ -211,7 +216,7 @@
 					 render_letter("19180316B.php");
 					 render_letter("19180317C.php");
 					 render_letter("19180320.php");
-					 render_letter("19180328.php");
+					 // render_letter("19180328.php");
 					 render_letter("19180917.php");
 					 render_letter("19181020.php");
 					 render_letter("19181022.php");
@@ -271,8 +276,13 @@
 		</div>		
 
 		<div class="ch_wrap">
-			<h1 id="flu" class="chapter">The Influenza Rpidemic of 1918</h1>
-				<?php render_letter("influenza.php"); ?>
+			<h1 id="flu" class="chapter">1918 Flu Pandemic</h1>
+				<?php render_letter("1918flupandemic.php"); ?>
+		</div>		
+
+		<div class="ch_wrap">
+			<h1 id="blacksmith" class="chapter">The Village Blacksmith, by Henry Longfellow</h1>
+				<?php render_letter("village_blacksmith.php"); ?>
 		</div>		
 
 	</body>

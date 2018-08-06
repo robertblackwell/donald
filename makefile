@@ -70,6 +70,8 @@ DEPS_17=$(LETTERS_DIR)/19170101.php \
 		$(LETTERS_DIR)/19170907C.php \
 		$(LETTERS_DIR)/19170909A.php \
 		$(LETTERS_DIR)/19170909.php \
+		$(LETTERS_DIR)/19170911.php \
+		$(LETTERS_DIR)/19170927.php \
 		$(LETTERS_DIR)/19171009.php \
 		$(LETTERS_DIR)/19171015.php \
 		$(LETTERS_DIR)/19171021.php \
@@ -119,7 +121,6 @@ DEPS_18=$(LETTERS_DIR)/19180106.php \
 		$(LETTERS_DIR)/19180316B.php \
 		$(LETTERS_DIR)/19180317C.php \
 		$(LETTERS_DIR)/19180320.php \
-		$(LETTERS_DIR)/19180328.php \
 		$(LETTERS_DIR)/19180917.php \
 		$(LETTERS_DIR)/19181020.php \
 		$(LETTERS_DIR)/19181022.php \
@@ -127,18 +128,24 @@ DEPS_18=$(LETTERS_DIR)/19180106.php \
 		$(LETTERS_DIR)/19181101.php \
 		$(LETTERS_DIR)/19181111.php \
 		$(LETTERS_DIR)/19181116.php \
-		$(LETTERS_DIR)/19181120.php \
+		$(LETTERS_DIR)/19181120.php
+
+		# $(LETTERS_DIR)/19180328.php \ - erronious entry
+
 
 DEPS_MISC= $(LETTERS_DIR)/australian_camps.php \
 			$(LETTERS_DIR)/introduction.php \
 			$(LETTERS_DIR)/war_casualties.php \
 			$(LETTERS_DIR)/wedding.php \
 			$(LETTERS_DIR)/mm.php \
+			$(LETTERS_DIR)/money.php \
 			$(LETTERS_DIR)/preface.php \
 			$(LETTERS_DIR)/family.php \
 			$(LETTERS_DIR)/rouen.php \
-			$(LETTERS_DIR)/influenza.php \
-			$(LETTERS_DIR)/characters.php
+			$(LETTERS_DIR)/1918flupandemic.php \
+			$(LETTERS_DIR)/characters.php \
+			$(LETTERS_DIR)/village_blacksmith.php
+
 
 DEPS=$(DEPS_16) $(DEPS_17) $(DEPS_18) $(DEPS_MISC) pdf-styles.css book.php php/render.php
 

@@ -1,7 +1,7 @@
-<p>Donald Cameron McDonald was born in Maitland, NSW Australia on November 4th, 1888 of parents of Scotish and Welsh heritage.
+<p>Donald Cameron McDonald was born in Maitland, NSW Australia on November 4th, 1888 of parents of Scots and Welsh heritage.
 He attended Maitland Boys High School and thereafter obtained an accountancy qualification and a position at a large wholesaling firm in Newcastle NSW.</p>
 
-<p>On July 1st 1916 he married Neita Fry of "Wadhurst", East Maitland. Below is the report that appeared in the the Maitland "Mercury" of the event.</p>
+<p>On July 1st 1916 he married Neita Sommerville Fry of "Wadhurst", Maitland. Below is the report that appeared in the the Maitland "Mercury" of the event.</p>
 
 
 <blockquote>
@@ -20,54 +20,24 @@ tailored costume and hat en suite.</p>
 and his fate. He sailed from Sydney on November 9th, 1916.</p>
 
 <p>When Donald departed Neita was already expecting their first child. Their son Neville Frank Cameron McDonald was born
-on June 23rd 1917. Donald was not present at the birth and never got to meet his son.</p>
+on June 23rd 1917. Donald was not present at the birth and never met his son.</p>
 
 <p>Donald passed away from influenza on October 22nd 1918, mere weeks before an armistice was signed that ended the war.
-Today he rests in the Imperial War Graves Cemetery near Rouen, France.</p>
+Today he rests in the Imperial War Graves Cemetery near Rouen, France. </p>
+
+<p style='text-align:center'>
+	30280 DRIVER <br>
+	D.C. McDonald<br>
+	Aust. Field Artillery<br>
+	22nd October 1918<br>
+	Age 28<br> 
+	He sleeps. Then God smiled<br>
+	and it was morning matchless<br>
+	and supreme<br>
+</p>
+
+<p>Donald's grave stone (reproduced above) and The Official Australian
+Commemorative Certificate show his age as 28 but in fact Donald was just a little short of 30 years old on the day he passed away.  </p>
 
 <p>The letters, and other material, reproduced in this book tell the story of Donald's experiences between the dates of 
 November 9th 1916 and October 22nd 1918. </p>
-
-<!--p>Donald Cameron McDonald, 4th November 1888  to 22nd November 1918</p>
-
-<div class='descendents'>
-<h4 xstyle='font-weight:bold; color:navy; margin-bottom:0px; padding-bottom:0px'>Son of</h4> 
-<pre xstyle='margin-top: 0px; padding-top:0px;'>Mr Edward J McDonald and Mrs Ida Marion McDonald (nee Roberts)
-</pre>
-
-<span xstyle='font-weight:bold; color:navy; margin-bottom:0px; padding-bottom:0px'>Husband of</span> 
-<pre xstyle='margin-top: 0px; padding-top:0px;'>Neita Summerville McDonald (nee Fry)
-</pre>
-
-<span xstyle='font-weight:bold; color:navy; margin-bottom:0px; padding-bottom:0px'>Father of</span> 
-<pre xstyle='margin-top: 0px; padding-top:0px;'>Neville Frank Cameron McDonald
-</pre>
-
-<span xstyle='font-weight:bold; color:navy; margin-bottom:0px; padding-bottom:0px'>Grandfather of</span> 
-<pre xstyle='margin-top: 0px; padding-top:0px;'>Nina Marguerite Blackwell (nee McDonald), 
-Donna Eileen McGrath (nee McDonald), 
-Lee Frances Russell (nee McDonald)
-</pre>
-
-<span xstyle='font-weight:bold;color:navy; margin-bottom:0px; padding-bottom:0px'>Great Grandfather of</span> 
-<pre xstyle='margin-top: 0px; padding-top:0px;'>Melissa Marriot McKinnon (nee McGrath),
-Michael Cameron McGrath,
-Robert James McGrath,
-Brendon Cameron Blackwell,
-Craig Donald McGrath,
-Richard Neville Blackwell,
-Haley Maree Russell,
-Sherryn Lee Russell
-</pre>
-<span xstyle='font-weight:bold;color:navy; margin-bottom:0px; padding-bottom:0px'>Great Great Grandfather of </span> 
-<pre xstyle='margin-top: 0px; padding-top:0px;'>Joshua McKinnon,
-Wade McKinnon,
-Alex McKinnon,
-Hugh McGrath,
-William McGrath,
-Vincent McGrath,
-Scout McGrath,
-Elle McGrath
-</pre>
-</div-->
-

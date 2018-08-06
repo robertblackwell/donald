@@ -35,6 +35,6 @@
 
 <p>Love and kisses</p>
 <p>Hubby</p>
-<p>How is little Max getting on?</p>
+<p>How is little Mac getting on?</p>
 </div>
 </div><!-- letter -->

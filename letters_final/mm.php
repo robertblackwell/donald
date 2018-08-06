@@ -128,7 +128,7 @@ First pay day. One shilling a day so I got a pound. Terrible rush for the cantee
 
  
 
-7:30 p.p. saw lights of Durbin.
+7:30 p.m. saw lights of Durbin.
 
 
 
@@ -193,7 +193,7 @@ Fatigues. Sea water soap and brooms. Preparing for the tropics.
 
  
 
-Green colour of Atlantic differs from the blue of the Indian Ocean. We are getting further away from home. Wish I could be with my dear wife. Can't expect any letters until we reach England. With luck by end of next year we will all be home again. Am looking forward however to England France and a go at the hun.
+Green colour of Atlantic differs from the blue of the Indian Ocean. We are getting further away from home. Wish I could be with my dear wife. Can't expect any letters until we reach England. With luck by end of next year we will all be home again. Am looking forward however to England France and a go at the Hun.
 
 
 
@@ -232,7 +232,7 @@ Two war ships to port. Highflyer and Kent. Five transports and one armoured crui
 
  
 
-LETTER:-"This is christmas day and we are all in a happy mind but dear old home and our loved ones are constantly in our thoughts. Feeling fit-hope this next christmas will be spent with you my darling and our babe. What fun we will have. Every mile we go we are further away from one another. I will try and make up with all this when I come home."
+LETTER:-"This is Christmas Day and we are all in a happy mind but dear old home and our loved ones are constantly in our thoughts. Feeling fit-hope this next Christmas will be spent with you my darling and our babe. What fun we will have. Every mile we go we are further away from one another. I will try and make up with all this when I come home."
 
 
 
@@ -271,7 +271,7 @@ LETTER:-"Am told that in another ship a few days ago an officer fell overboard. 
 
  
 
-Two months today aboard ship. Escort Kent fire on an unidentified steamer. Off she went. Came back latter with siren whooping but do not know the reason.
+Two months today aboard ship. Escort Kent fired on an unidentified steamer. Off she went. Came back latter with siren whooping but do not know the reason.
 
 
 
@@ -414,7 +414,7 @@ Left camp for London at 6:30 a.m. and arrived London 12 noon. Saw all the sights
 
  
 
-Back in camp. There are a great number of German Prisoners of War near by. Received news that the bottle I threw over outside Melbourne has been picked up and was referred to in the Sydney "Sun" on 11/12/16. 
+Back in camp. There are a great number of German Prisoners of War near by. Received news that the bottle I threw over outside Melbourne has been picked up and was referred to in the "Sydney Sun" on 11/12/16. 
 
 
 
@@ -585,7 +585,7 @@ Food scarce. Allowance of bread only 4 small slices a day. No butter. Sometimes 
 
  
 
-Not a particle of food wasted. Left overs made up into hash or pudding. Am told inedible food is used in the making of munitions. A lot of my mates are in France now. Will also go soon. Am not looking forward to it so much now. I have seen so many wounded hereabouts in hospitals and in London. It seemed every second man in uniform in London was carrying an injury. Men I have spoken to who have been in the tenches say it is just murder. 
+Not a particle of food wasted. Left overs made up into hash or pudding. Am told inedible food is used in the making of munitions. A lot of my mates are in France now. Will also go soon. Am not looking forward to it so much now. I have seen so many wounded hereabouts in hospitals and in London. It seemed every second man in uniform in London was carrying an injury. Men I have spoken to who have been in the trenches say it is just murder. 
 
 
 
@@ -624,7 +624,7 @@ Five months since leaving Sydney. 3 months since we arrived in England. The mail
 
  
 
-Now that America is in the war we should really hit the hun. Aeroplane down. Pilot killed.
+Now that America is in the war we should really hit the Hun. Aeroplane down. Pilot killed.
 
 
 
@@ -676,7 +676,7 @@ Gas instruction. Issued with overseas clothes.
 
  
 
-On day off visited Heale House residence of Hon. L. Greville. It was here that Charles II was hidden after the battle Worcester.
+On day off visited Heale House residence of Hon. L. Greville. It was here that Charles II was hidden after the battle of Worcester.
 
 
 
@@ -743,21 +743,21 @@ We are about 80 miles from Somme front. Rations are "hard tack". That is bully b
 
 LETTER:-"Must not forget to tell you about Boulogne and the "Bullring". Whilst we were at Boulonge the town was out of bounds. But being so that is probably the reason a bunch of us decided to see the town. Had a good look. The French very happy to see us. Hard to walk through on the cobbled streets especially as we were carrying full pack and rifle. Didn't see an MP at any time. 
 
-<br>Now for the "Bullring". This was where we were tortured by a pack of British and Australian drill instructors. They didn't let up day and night for 17 days. Day and night they marched us or ran us and we had to undergo awful exercises with full battle kit up to our knees in mud and slush. They were a sadistic lot and we hated everyone of them. We are told that a previous draft got so mad they put one instructor in hospital. There was a hell of a to-do. Anyway we had to do all this on bully beef and biscuit. We are starving. There is averse doing the rounds that goes like this:-
+<br>Now for the "Bullring". This was where we were tortured by a pack of British and Australian drill instructors. They didn't let up day and night for 17 days. Day and night they marched us or ran us and we had to undergo awful exercises with full battle kit up to our knees in mud and slush. They were a sadistic lot and we hated everyone of them. We are told that a previous draft got so mad they put one instructor in hospital. There was a hell of a to-do. Anyway we had to do all this on bully beef and biscuit. We are starving. There is a verse doing the rounds that goes like this:-
 
 <p>
 	"Somewhere in France soldiers are seen<br>
 	Walking about all very lean <br>
 	Walking about with bowed down head <br>
-	Praying to god they will be fed.<br><br>
+	Praying to God they will be fed.<br><br>
 
 	Somewhere in France in mud and rain <br>
 	Soldiers are saying 'never again'<br>
 	Never again in one deep breath<br>
-	will they come to France and starve to death "
+	Will they come to France and starve to death "
 </p>
 
-<br>Well we finally survived the running and marching and the odd hun aeropplane which came over and dropped a bomb on the parade ground which did no explode."
+<br>Well we finally survived the running and marching and the odd Hun aeroplane which came over and dropped a bomb on the parade ground which did not explode."
 
 
 
@@ -771,7 +771,7 @@ LETTER:-"Must not forget to tell you about Boulogne and the "Bullring". Whilst w
 
  
 
-Camp routine. Letter from Nellie informing me that brother in-law Frank and my wife's dear brother has been killed in action. She will be heart broken and the family will take this very hard. 
+Camp routine. Letter from Nellie informing me that brother in-law Frank, that is my wife's dear brother, has been killed in action. She will be heart broken and the family will take this very hard. <br>
 
 (Note:- there was no mistake this time. Previously the family had been advised that Frank had been killed and they had held a memorial service for him. Shortly after they were advised that it was a mistake and that he was alive and well.)
 
@@ -786,7 +786,7 @@ Camp routine. Letter from Nellie informing me that brother in-law Frank and my w
 
  
 
-Heard British have a great vistory. What are the Russians doing. They could help more that they are doing at present. Rain, rain, rain. Everything is wet. Clothes-even our bedding does not dry from one day to the next. Tents leaking. It is hell.  Passed through gas test. Now attached attached to 2nd Division as gunner. So much for signalling.
+Heard British have a great vistory. What are the Russians doing. They could help more than they are doing at present. Rain, rain, rain. Everything is wet. Clothes-even our bedding does not dry from one day to the next. Tents leaking. It is hell.  Passed through gas test. Now attached to 2nd Division as gunner. So much for signalling.
 
 
 
@@ -812,7 +812,7 @@ Left Etables. Then Abbeville - Amiens - Albert. Then on to Bouzincourt. We are n
 
  
 
-Joined 2nd Division. Division now out of line. Have had a hard time. Replacements badly needed. Heavy bombardment can be heard and flashes visible. We are near Bullecourt and heard that Frank has been killed in th great battle of Bullecourt. He was such a fine chap.
+Joined 2nd Division. Division now out of line. Have had a hard time. Replacements badly needed. Heavy bombardment can be heard and flashes visible. We are near Bullecourt and heard that Frank has been killed in the great battle of Bullecourt. He was such a fine chap.
 
 
 
@@ -864,7 +864,7 @@ Batch of us raided a strawberry and cherry garden. We had quite a feast.
 
  
 
-Cricket match. We won. Believe Americans are now in France in force. Now will the hun whato.
+Cricket match. We won. Believe Americans are now in France in force. Now we will give the Hun whatho.
 
 
 
@@ -994,7 +994,7 @@ Have spent 24 hours on Observation Post on hill 60. Spotting our shells. Fritz p
 
  
 
-Another plane down. Heavily shelling by hun - all classes of shells. Many gas.
+Another plane down. Heavy shelling by Hun - all classes of shells. Many gas.
 
 
 
@@ -1007,7 +1007,7 @@ Another plane down. Heavily shelling by hun - all classes of shells. Many gas.
 
  
 
-Terrible shelling of our position. A 5.9 HE burst on our trench. Five killed three wounded. Yours truly buried but unharmed. Later gassed. We were in bad shape. Then at 2 p.m. further shell killed three and wounded nine including yours truly. Two wounds in back and several in buttock. First aid station. Hospital at Etables by midnight. Several of my mates are gone.
+Terrible shelling of our position. A 5.9 H.E. burst on our trench. Five killed three wounded. Yours truly buried but unharmed. Later gassed. We were in bad shape. Then at 2 p.m. further shell killed three and wounded nine including yours truly. Two wounds in back and several in buttock. First aid station. Hospital at Etables by midnight. Several of my mates are gone.
 
 
 
@@ -1072,7 +1072,7 @@ Stitches taken out.
 
  
 
-Recieved my ticket for "Blighty". Oh to be away from it all. So many men at the hospital with all sorts of injuries. Many are dying daily. They in so much pain it is heart breaking to hear them in their agony. I have been so lucky so far.
+Recieved my ticket for "Blighty". Oh to be away from it all. So many men at the hospital with all sorts of injuries. Many are dying daily. They are in so much pain it is heart breaking to hear them in their agony. I have been so lucky so far.
 
 
 
@@ -1124,7 +1124,7 @@ Am now in Australian hospital Harefield, Middlesex.
 
  
 
-Wounds xrayed. Walked out the front gate and had a day out. Great time just walking around. Nobody seemed to miss me or maybe knew and let me go.
+Wounds x-rayed. Walked out the front gate and had a day out. Great time just walking around. Nobody seemed to miss me or maybe knew and let me go.
 
 
 
@@ -1139,7 +1139,7 @@ Wounds xrayed. Walked out the front gate and had a day out. Great time just walk
 
 On leave. Left hospital. Train to Goudhurst. Met by cousin Nellie at station. It is wonderful to be in a home again and to receive such loving care from someone whom I have known about and corresponded with but never met. Cool fresh sheets. Clean clothes and where she gets the food from I do not know but it is wonderful. Must write home and tell Neita how well I am being cared for. She may stop worrying for a while.
 
-<br>LETTER:-(To an old friend back home) This break has given me time to think and to realize how fortunate I have been so far. I haven't really seen that much of the trenches as compared with others but I cannot forget the mud, the filth, the dead mates, the lice and the fear - constant all the time and of course the relief when the hun lets up. He suffers the same of course because we are giving him a real belting. The sooner this is over the better for us all. We have been taught to kill and we do it so thoroughly.
+<br>LETTER:-(To an old friend back home) This break has given me time to think and to realize how fortunate I have been so far. I haven't really seen that much of the trenches as compared with others but I cannot forget the mud, the filth, the dead mates, the lice and the fear - constant all the time and of course the relief when the Hun lets up. He suffers the same of course because we are giving him a real belting. The sooner this is over the better for us all. We have been taught to kill and we do it so thoroughly.
 
 
 
@@ -1165,7 +1165,7 @@ Of all things I went hop picking today despite my back. Will go up to London in 
 
  
 
-Whilst I am staying here with Nellie I must write you in more detail about various things .... must tell you I had a letter from your brother George. He seems to be having a good time with the girls or so I presume. The letter was signed George and there were kisses, rows of them, around the edge of the paper. I guess he got mixed up with whom he was writtiing to.. A mate of mine tells me that George was as "happy as larry" the night before he left for France. Can't blame him.
+Whilst I am staying here with Nellie I must write you in more detail about various things .... must tell you I had a letter from your brother George. He seems to be having a good time with the girls or so I presume. The letter was signed George and there were kisses, rows of them, around the edge of the paper. I guess he got mixed up with whom he was writtiing to.. A mate of mine tells me that George was as "happy as Larry" the night before he left for France. Can't blame him.
 
 
 
@@ -1204,7 +1204,7 @@ Camp life again. Mumps in hut. Went into isolation.
 
  
 
-Isolation lifted. Drafted for France again. Now I have to face it all again. Our hopes of seeing the end of the war by christmas now gone. A big push coming.
+Isolation lifted. Drafted for France again. Now I have to face it all again. Our hopes of seeing the end of the war by Christmas now gone. A big push coming.
 
 
 
@@ -1230,7 +1230,7 @@ Great day. 18 letters from home. Several letters from London tell of many people
 
  
 
-LETTER:-"Lucky to be out of France. Australian casualties for August, September and October said to be 70,000. We heard today that 4th and 5th Divisions are being disbanded and will be used to reenforce 2nd and 3rd. There should never have been these two divisions as there would always be insufficient reinforcements. Papers are raving about breakthrough of Hindenburg Line. Hope this leads to a big breakthrough to end it all."
+LETTER:-"Lucky to be out of France. Australian casualties for August, September and October said to be 70,000. We heard today that 4th and 5th Divisions are being disbanded and will be used to reinforce 2nd and 3rd. There should never have been these two divisions as there would always be insufficient reinforcements. Papers are raving about breakthrough of Hindenburg Line. Hope this leads to a big breakthrough to end it all."
 
 
 
@@ -1321,7 +1321,7 @@ LETTER:-"Was very sorry to leave Hurdcott camp for this one. It was great. Rose 
 
  
 
-Papers say that some mines have been found off Gabo Island. The way the war is going can't see when it will end. Miss my darling wife and that son I have yet to see. Over 12 months since I left.
+Papers say that some mines have been found off Gabo Island Vic. The way the war is going can't see when it will end. Miss my darling wife and that son I have yet to see. Over 12 months since I left.
 
 
 
@@ -1347,7 +1347,7 @@ Had hoped to get a job as auditor at HQ but missed out.
 
  
 
-Still here at Sandhill. Had a real feast today but missed my loved ones and wondering where they will spend christmas. Am a bit down today.
+Still here at Sandhill. Had a real feast today but missed my loved ones and wondering where they will spend Christmas. Am a bit down today.
 
 
 
@@ -1386,7 +1386,7 @@ At last I have two weeks leave and am off to Scotland.
 
  
 
-Great trip to Scotland. Believe George and Sid had a wild time in London. Girls galore. Can just imagine how they would go through London. In a letter from his mother (George) I was asked to tell George that there were many better girls in Australia. Little notice he would take of that.
+Great trip to Scotland. Believe George and Sid had a wild time in London. Girls galore. Can just imagine how they would go through London. In a letter from George's mother I was asked to tell George that there were many better girls in Australia. Little notice he would take of that.
 
 
 
@@ -1476,7 +1476,7 @@ Back on the Somme and in reserve. Living in an old farm house. We are however cl
 <td>
 
 
-Unfortunately there are no further diary entries as most of the pages after the above have been removed. There are also no more letters to his young wife and one can only conclude he was unable to write or they have been lost over the years. From the many he wrote it is most unlikey that he would stop writting unless force to by circumstances. There are however a few letters several to a friend in Maitland and several to cousin Nellie.
+Unfortunately there are no further diary entries as most of the pages after the above have been removed. There are also no more letters to his young wife and one can only conclude he was unable to write or they have been lost over the years. From the many he wrote it is most unlikey that he would stop writting unless forced to by circumstances. There are however a few letters several to a friend in Maitland and several to cousin Nellie.
 
 
 
@@ -1489,7 +1489,7 @@ Unfortunately there are no further diary entries as most of the pages after the 
 
  
 
-LETTER:-"Dear Fred. Have been attached to this battery for two months now and have had three weeks in the line, then out, then back in again, and now in reserve and can write a few lines. We have been given a bad time. The hun will not give up even though we have given him more than he has given us. It is impossible to describe the constant shelling we have had. Shells falling all around us. We did nothing for days on end but fire. Very little rest and hardly any sleep and then to be waken with alerts. Just heard we have to go up to the line again for another push. I sometimes wonder will I ever escape to a rational world again. I despair sometimes. Don't let Neita see this."
+LETTER:-"Dear Fred. Have been attached to this battery for two months now and have had three weeks in the line, then out, then back in again, and now in reserve and can write a few lines. We have been given a bad time. The Hun will not give up even though we have given him more than he has given us. It is impossible to describe the constant shelling we have had. Shells falling all around us. We did nothing for days on end but fire. Very little rest and hardly any sleep and then to be waken with alerts. Just heard we have to go up to the line again for another push. I sometimes wonder will I ever escape to a rational world again. I despair sometimes. Don't let Neita see this."
 
 
 
@@ -1530,11 +1530,31 @@ LETTER:-"Dear Nellie. Am in No 2 Stationary Hospital France. Have a case of Tren
 
 LETTER:-"Dear Nellie. Have the 'flu' but getting better I think. Have been here 4 days. Can't remeber if I have written to you for some time and am sorry I haven't. I can't remember. Will you please write to Neita. If she saw a letter like this she would go silly. No hope of "Blighty". Your loving cousin Don"
 
+</td><!----------------------------- end ----------------->
+</tr>
 
+
+<tr><!------------------ start ------------------------>
+<td>22/10/18</td>
+<td>
+
+<p>Donal passed away.</p>
 
 
 </td><!----------------------------- end ----------------->
 </tr>
+
+<tr><!------------------ start ------------------------>
+<td>11/11/18</td>
+<td>
+
+<p>November 11th 1918 an armistice was signed by the Germans.</p>
+
+
+</td><!----------------------------- end ----------------->
+</tr>
+
+
 <tr><!------------------ start ------------------------>
 <td>16/11/18</td>
 <td>
@@ -1548,14 +1568,13 @@ LETTER:-"From Rev. H. W. Mackay, 3rd Stationary Hospital Rouen. I find in our re
 </table>
 
 
-<p>Eighteen days later on November 11th 1918 an armistice was signed by the Germans."</p>
 
 <div style="page-break-before: always;">
 
 
 <h2>What is it that we know about this man</h2>
 
-<p>We know that he was born on November 4th 1888 in Maitland NSW. His father was born in Australia of Scotish parents and his mother was of Welsh extraction. He attended maitland Boys High School and progressed from there to an accountant's position with a large Neewcastle wholesale firm.</p>
+<p>We know that he was born on November 4th 1888 in Maitland NSW. His father was born in Australia of Scotish parents and his mother was of Welsh extraction. He attended Maitland Boys High School and progressed from there to an accountant's position with a large Newcastle wholesale firm.</p>
 
 <p>He was a tall outgoing man, six feet in height, and he described himself in one of his letters as being 12 stone 3 pounds "those rounded shoulders have gone and I am as tough as a tack".</p>
 
@@ -1563,13 +1582,13 @@ LETTER:-"From Rev. H. W. Mackay, 3rd Stationary Hospital Rouen. I find in our re
 
 <p>He was beyond doubt a gentle man and with all the hopes and fears that beset men who are called on to leave their loved ones and face an uncertain future.</p>
 
-<p>His letters refer longingly to the times in the future when he and his wife and son would be together again. He long to see and cradle his son but this was not to be and one can only share his anquish late in October 1918 so near to the conclusion of the war, when it no doubt dawned on him that all his hopes and asperations of a joyful reunion and a long happy life would be forever denied him.</p>
+<p>His letters refer longingly to the times in the future when he and his wife and son would be together again. He longed to see and cradle his son but this was not to be and one can only share his anquish late in October 1918 so near to the conclusion of the war, when it no doubt dawned on him that all his hopes and aspirations of a joyful reunion and a long happy life would be forever denied him.</p>
 
-<p>It is a sad story, but of course, only ne of many more.</p>
+<p>It is a sad story, but of course, only one of many more.</p>
 
 <p>Some five miles or so on the outskirts of the French City of Rouen is the Imperial War Graves Cemetery of St Sever where the bodies of so many British and Commonwealth soldiers lie.</p>
 
-<p>Above the grave of one such soldier stands a grave stonbe which reads :</p>
+<p>Above the grave of one such soldier stands a grave stone which reads :</p>
 
 <p style='text-align:center'>
 	30280 DRIVER <br>
