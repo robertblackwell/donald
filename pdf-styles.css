@@ -6,7 +6,8 @@
 */
 @page {
 	size : A4;
-	 /*size: 5.5in 8.5in; */ 
+	/*size : A5;*/
+	 /*size: 5.5in 8.5in;  */
 	 margin: 70pt 60pt 70pt;
 }
 /*
@@ -15,7 +16,7 @@
 
 /* max size of footnote area */
 
-@page { @footnote { max-height: 15cm } }
+@page { @footnote { max-height: 40%/*15cm*/ } }
 
 /* styles for the right hand spread
 Bottom left we display the title of the book, bottom right the page using a CSS counter, top right the content of the current chapter */
@@ -196,10 +197,17 @@ div.frontcover {
 		}
 }
 
-#preface, #toc {
+#toc {
 	page: no_page_number;
 }
 
+/*#preface, #toc {
+	page: no_page_number;
+}
+
+#family_wrap {
+	page: no_page_number;	
+}*/
 /* experiment */
 
 /*
@@ -237,7 +245,8 @@ div.frontcover {
 
 /** start page numbering at the introduction ********************************************* */
 
-#ch1 {
+/*#ch1 */
+#preface{
 	counter-reset: page 1;
 	/*counter-increment: page;*/
 }
@@ -410,18 +419,21 @@ blockquote {
 }
 
 /* descendants page */
-div.descendents h4, div.descendents span {
+div.descendents h4 {
 	font-weight:bold; 
 	color:navy; 
 	margin-bottom:0px; 
 	padding-bottom:0px; 
+	padding-bottom:5px;
+	/*background-color: pink;*/
 }
- div.descendents pre {
+ div.descendents span {
 	margin-top: 0px; 
 	padding-top:0px;
 	/*font-weight:bold;*/
 	font-size: small;
-	font-family: "Courier New", Courier, monospace;
+	/*font-family: "Courier New", Courier, monospace;*/
+	/*background-color:green;*/
 }
 table {
 	border-collapse:collapse;

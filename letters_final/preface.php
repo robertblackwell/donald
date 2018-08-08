@@ -20,13 +20,24 @@ This highly error prone task required many hours of proof reading and correction
 these issues with footnotes and appendices to explain; expressions, word usage, places, contemporary historical events
 and even contemporary money.</p>
 
-<p>The documents are personal communications in a family context and as a consequence many people are mentioned only by their first name. Presumably Donald and Neita knew well who they were talking about and such people were probably family or acquaintances. Neither my sisters or I, nor older members of the family still living,  could work out who all of them were. Thus to help readers from younger generations or non family members
-we have included a list of the commonly mentioned characters (that we can identify) in an appendix.</p>
+<p>The documents are personal communications in a family context and as a consequence many people are mentioned only by their first name. Presumably Donald and Neita knew well who they were talking about and such people were probably family or acquaintances. Neither my sisters or I, nor older members of the family still living,  could work out who all of them were. Thus to help readers from younger generations or non family members we have identified below the commonly mentioned characters (that we can identify).</p>
 
-<p>I should also note that date format and spelling follows the Australian and British practive. So for example dates are day-month
-and and the word colour is spelt with a "u".</p>
+<ul>
+<li>Keith was Don's brother who served in, and survived, World War I,</li>
+<li>Frank was Neita’s eldest brother who served in but did not survive World War I,</li>
+<li>George was Neita's younger brother who served in and survived World War I. Chas and Don were Neita’s youngest brothers, 
+neither were old enough to serve.</li>
+<li>Vi was a freind of Neita's, and Franks fiancé at the time of the World War I.</li>
+<li>Nelly Fry was Neita’s cousin living in England</li>
+<li>Phyl, or Phylis, is mentioned many times, I feel she must have been a sister, cousin or close friend of Don's but to date no one
+has been able to shed any light on her relationship to Don.</li> 
+</ul>
+
+<p>I should also note that date format and spelling follows the Australian and British practice. So for example dates are day-month-year and the word colour, for example, is spelt with a "u".</p>
 
 <p>Nearly 25 years ago the eldest great grandson of Donald and Neita,  Michael McGrath, examined these documents closely as part of a high school assignment and wrote a timeline summary of the story. He had access to Donald's diary for the years 1916-1918 as well as letters Donald wrote to friends; sources which are no longer available;
-but which add to the understanding of Donald's war experience. Micheal's assignment is included as an appendix.</p>
+but which add to the understanding of Donald's war experience. Michael's assignment is included as an appendix.</p>
 
 <p>What we three grandchildren have missed by not knowing our grandfather we will never know but by reading these letters and visiting his resting place in Rouen France we have come closer to knowing this wonderful man.</p>
+
+

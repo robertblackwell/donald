@@ -1,9 +1,5 @@
-<p>At the time of the Great War Britain and Australia used a system of currency called <span>pounds, shillings and pence</span>, £sd </p>
-
-<p>Indeed up until 1910 Australia had used British notes and coins for its currency. Thereafter Australia introduced its own
-bank notes and coins but that currency system was still based on £sd <span>pounds shillings and pence</span></p>
-
-<p>The £sd system was a pre-decimal system in which:</p>
+<p>At the time of the Great War Britain and Australia used a system of currency called <span>pounds, shillings and pence</span>, £sd.  Indeed up until 1910 Australia had used British notes and coins for its currency. Thereafter Australia introduced its own
+bank notes and coins but that currency system was still based on £sd <span>pounds shillings and pence</span>. The £sd system was a pre-decimal system in which:</p>
 <ul>
 	<li><p>a pound was equal to 20 shillings</p></li>
 	<li><p>a shillings was  equal to 12 pennies</p></li>
@@ -23,21 +19,11 @@ bank notes and coins but that currency system was still based on £sd <span>poun
 </pre>
 <p>And would be said as "2 and thrupence". The case of 6 pence was special and a sum such as 2/6 would be said as "two and six".</p>
 
-<p>A sum consisting of just pounds, without shillings or pennies, for example 13 pounds was write as :</p>
-<pre>
-	£13
-</pre>
+<p>A sum consisting of just pounds, without shillings or pennies, for example 13 pounds was write as <pre style="display:inline"> £13</pre>.
 
-<p>A sum consisting of only shillings, say 3 shillings, was written as :</p>
-<pre>
-	3/-
-</pre>
-<p>The "-" symbol denoting "none".</p>
+<p>A sum consisting of only shillings, say 3 shillings, was written as <pre style="display:inline;"> 3/- </pre>. The "-" symbol denoting "none".</p>
 
-<p>A sum consisting only of pennies, 5 pennies, was written as:</p>
-<pre>
-	5p
-</pre>
-<p>and was said as "5 pence", not 5 pennies.</p>
+<p>A sum consisting only of pennies, 5 pennies, was written as <pre style="display:inline;">5p</pre>
+and was said as "5 pence", not 5 pennies.</p>
 
 <p>A more fullsome discussion of £sd can be found by following this <a href="https://en.wikipedia.org/wiki/%C2%A3sd">wikipedia link  £sd</a></p>

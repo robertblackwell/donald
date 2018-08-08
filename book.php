@@ -32,6 +32,7 @@
 			<ul class="toc">
 				<li><a href="#preface">Preface</a></li>
 				<li><a href="#ch1">Introduction</a></li>
+				<li><a href="#family">Donald's Family</a></li>
 				<li><a href="#ch2">Letters 1916</a></li>
 				<li><a href="#ch3">Letters 1917</a></li>
 				<li><a href="#ch4">Letters 1918</a></li>
@@ -39,12 +40,10 @@
 				<li><a href="#casualties">War Casualty</a></li>
 				<li><a href="#australian_camps">Australian Army Camps in Britain</a></li>
 				<li><a href="#money">Money</a></li>
-				<li><a href="#characters">Characters</a></li>
 				<li><a href="#mm">Summary of Letters and Diary, by M. McGrath</a></li>
-				<li><a href="#family">Donald's Family</a></li>
 				<li><a href="#rouen">Map of Rouen War Cemetery</a></li>
 				<li><a href="#rouen">1918 Flu Pandemic</a></li>
-				<li><a href="#blacksmith">the Village Blacksmith, by Henry Longfellow</a></li>
+				<li><a href="#blacksmith">The Village Blacksmith, by Henry Longfellow</a></li>
 			</ul>
 		</div>
 
@@ -54,11 +53,17 @@
 		
 		</div>
 
+
 		<!-- <p id="blnk" style="page-break-after: always"></p> -->
 
 		<div id = "intro" class="ch_wrap">
 			<h1 id="ch1" class="chapter">Introduction</h1>
 				<?php render_letter("introduction.php"); ?>
+		</div>
+
+		<div id="family_wrap" class="ch_wrap">
+			<h1 id="family" class="chapter">Donald's Family</h1>
+				<?php render_letter("family.php"); ?>
 		</div>
 
 		<!--img src="images/z025.png" /-->
@@ -247,27 +252,14 @@
 				<?php render_letter("war_casualties.php") ;?>
 		</div>
 
-		<!--div class="ch_wrap">
-			<h1 id="wedding" class="chapter">Wedding</h1>
-				<?php render_letter("wedding.php"); ?>	
-		</div-->
 		<div class="ch_wrap">
 			<h1 id="money" class="chapter">Money</h1>
 				<?php render_letter("money.php");?>	
-		</div>
-		<div class="ch_wrap">
-			<h1 id="characters" class="chapter">Characters</h1>
-				<?php render_letter("/characters.php");?>	
 		</div>
 
 		<div class="ch_wrap">
 			<h1 id="mm" class="chapter">Summary of Letters and Diary, by Michael McGrath</h1>
 				<?php render_letter("mm.php"); ?>
-		</div>
-
-		<div class="ch_wrap">
-			<h1 id="family" class="chapter">Donald's Family</h1>
-				<?php render_letter("family.php"); ?>
 		</div>
 
 		<div class="ch_wrap">
