@@ -1,10 +1,10 @@
-<p>This book seeks to preserve, and make accessible, the letters that Donald Cameron McDonald wrote to his new young wife Neita  Somerville Mc Donald (nee Fry) during the period 1916 to 1918, and to tell the story of Donald's experience and death in the Great War.</p>
+<p>This book seeks to preserve, and make accessible, the letters that Donald Cameron McDonald wrote to his young wife Neita  Somerville Mc Donald (nee Fry) during the period 1916 to 1918, and to tell the story of Donald's experience and death in the Great War.</p>
 
 <p>I am Nina Marguerite Blackwell (nee McDonald), the compiler of this book, and the eldest of three daughters of Neville Frank Cameron McDonald the only child of Donald and Neita Mc Donald.</p>
 
 <p>For all of my life I knew that my grandfather had died in World War 1 and that my paternal grand mother had raised her only child (my father) by herself. But as I grew up that story was history and like children and young adults everywhere my focus was on my own life and looking forward.</p>
 
-<p>As each of the grand daughters have aged and decided to downsize their homes Donald's letters, cards and other documents from the war years have been moved several times. On the occasion of the last move the three grand daughters decided that all three should examine all documents remaining from our grandparents and parents.</p>
+<p>As each of the grand daughters aged and decided to downsize their homes Donald's letters, cards and other documents from the war years have been moved several times. On the occasion of the last move the three grand daughters decided that all three should examine all documents remaining from our grandparents and parents.</p>
 
 <p>Examination of Donald's correspondence revealed that the documents, mostly written in ink but some in pencil, would not last much longer. Many were after all over 100 years old, and others nearly so. As the eldest granddaughter I took on the task of 
 digitalizing them, before they were lost forever.</p> 
@@ -28,8 +28,8 @@ and even contemporary money.</p>
 <li>George was Neita's younger brother who served in and survived World War I. Chas and Don were Neita’s youngest brothers, 
 neither were old enough to serve.</li>
 <li>Vi was a freind of Neita's, and Franks fiancé at the time of the World War I.</li>
-<li>Nelly Fry was Neita’s cousin living in England</li>
-<li>Phyl, or Phylis, is mentioned many times, I feel she must have been a sister, cousin or close friend of Don's but to date no one
+<li>Nellie Fry was Neita’s cousin living in England</li>
+<li>Phyll, or Phyllis, is mentioned many times, I feel she must have been a sister, cousin or close friend of Don's but to date no one
 has been able to shed any light on her relationship to Don.</li> 
 </ul>
 

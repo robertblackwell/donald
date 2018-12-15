@@ -16,7 +16,14 @@
 
 /* max size of footnote area */
 
-@page { @footnote { max-height: 40%/*15cm*/ } }
+@page { @footnote { max-height: 15cm } }
+
+
+
+@page :blank {
+  @top-center { content: "This page is intentionally left blank." }
+}
+
 
 /* styles for the right hand spread
 Bottom left we display the title of the book, bottom right the page using a CSS counter, top right the content of the current chapter */
@@ -35,7 +42,7 @@ Bottom left we display the title of the book, bottom right the page using a CSS 
 			 font-size: 9pt;
 	 }
 	 @top-right {
-			 content:  string(doctitle);
+			 /*content:  string(doctitle);*/
 			 margin: 30pt 0 10pt 0;
 			 font-size: 9pt;
 			 color: #333;
@@ -64,11 +71,15 @@ Bottom right book title, bottom left current page */
 * end style the default page layout ==========================================
 */
 
+@page blank_page {
+	page-break-after: always;
+}
+
 /*
 * style the cover page - overrides default ===========================================
 */
 @page:first {
-	size : A4;
+	/*size : A4;*/
 	 /*size: 5.5in 8.5in;*/  
 	 margin: 0;
 }
@@ -138,19 +149,19 @@ div.frontcover {
 		margin: 0;
 	}	
 }
-#title_page {
+#title_page2, #title_page {
 	page: title_page;
 	width: 100%;
 	height: 100%;
 	padding: 0%;
 	margin :0%;
 }
-#title_page {
+#title_page2, #title_page {
 	/*background-color:grey;*/
 	margin-left :0;
 	padding-top:30%;
 }
-#title_page > div{
+#title_page2 > div, #title_page > div{
 	/*background-color: pink;*/
 	margin: 0 auto ;
 	width: 65%;

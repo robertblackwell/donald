@@ -23,7 +23,7 @@
 
 <p>Out riding this afternoon also received another pay of <?php render_pounds_shillings_pence(1,'-','-');?>. Plenty of money for the present time. Saw the new Moon just a little while ago, of course had a wish. You can bet you're sweet life what it was. Have wrapped up a paper to send to dad and the soon as I finish this letter will drop a line to mum. I'm writing this in the YMCA ,&ldquo;Y Emma&rdquo; as it is known by the boys. Have not heard anything of Keith<span class='fn'>Don's brother</span> yet, I suppose he will soon reach this side.</p>
 
-<p>Wrote a letter to Nelly Fry the other day.</p>
+<p>Wrote a letter to Nellie Fry the other day.</p>
 
 <p>Well dear wife I will now say au revoir. The next mail closes on 29 January so will write again before that. Love and kisses to my dear little wifey.</p>
 

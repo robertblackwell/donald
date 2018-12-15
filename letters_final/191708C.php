@@ -1,10 +1,8 @@
-Possibly August 1917
 <div class='letter postcard'>
 	<div class='letter_head'>
 
 		<div class='salutation'>
-			<span class='lh_el'>Postcard</span>
-			<span class='lh_el'>Possibly August 1917</span>
+			<span class='lh_el'>August 1917</span>
 		</div>
 		<p>My Darling Wife and Bonny son</p>
 	</div><!-- end class='letter_header'-->

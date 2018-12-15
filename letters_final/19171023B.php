@@ -4,7 +4,7 @@
 
 		<div class='salutation'>
 			<span class='lh_el'>Hurdcott Camp</span>
-			<span class='lh_el'>23rd of October 1917</span>
+			<span class='lh_el'>23rd October 1917</span>
 		</div>
 		<p>My darling wife and bonny son</p>
 	</div><!-- end class='letter_header'-->

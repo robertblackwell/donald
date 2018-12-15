@@ -1,3 +1,2 @@
-<br><br>
 
-<h4>include the cemetery map in here</h4>
+<?php render_postcard("cemetry-plan-2-fixed"); ?>

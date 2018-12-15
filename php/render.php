@@ -293,6 +293,7 @@ function render_telegram($file_name)
 function money_footnote($after)
 {
 	$s = "<span class='fn'>see Appendix entitled Money Notation{$after}</span>";
+	$s = "<span class='fn'>{$after}</span>";
 	return $s;
 }
 function description_pounds_shillings_pence($pounds, $shillings, $pence)
@@ -339,12 +340,12 @@ function render_pence($pence)
 
 function render_father($in)
 {
-	$s = "{$in}<span class='fn'>Don's father see Appendix entitled Characters</span>";
+	$s = "{$in}<span class='fn'>Don's father<!-- see Appendix entitled Characters--></span>";
 	print $s;
 }
 function render_mother($in)
 {
-	$s = "{$in}<span class='fn'>Don's mother see Appendix entitled Characters</span>";
+	$s = "{$in}<span class='fn'>Don's mother<!-- see Appendix entitled Characters--></span>";
 	print $s;
 }
 

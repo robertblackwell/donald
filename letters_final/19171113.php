@@ -3,10 +3,8 @@
 	<div class='letter_head'>
 
 		<div class='salutation'>
-			<span class='lh_el'>Sandhill Camp<span class="fn">Situated close to the larger camp at Sutton Veny, the Sand Hill camp, was built in 1914 to accommodate infantry units. Australian troops arrived at Longbridge Deverill in October 1917, when their&nbsp;Overseas Training Brigade&nbsp;was moved from Perham Down, and established there to train soldiers who had recovered from illness and wounds for a return to active service.</span> *</span>
-			<span class='lh_el'>Longbridge Deverill</span>
-			<span class='lh_el'>Warminster</span>
-			<span class='lh_el'>Wills</span>
+			<span class='lh_el'>Sandhill Camp<span class="fn">Situated close to the larger camp at Sutton Veny, the Sand Hill camp, was built in 1914 to accommodate infantry units. Australian troops arrived at Longbridge Deverill in October 1917, when their&nbsp;Overseas Training Brigade&nbsp;was moved from Perham Down, and established there to train soldiers who had recovered from illness and wounds for a return to active service.</span></span>
+			<span class='lh_el'>Longbridge Deverill, Warminster</span>
 			<span class='lh_el'>November 13 1917</span>
 		</div>
 		<p>My Dearest Wife and Darling Son</p>

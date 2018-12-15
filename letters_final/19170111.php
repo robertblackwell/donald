@@ -3,13 +3,13 @@
 	<div class='letter_head'>
 
 		<div class='salutation'>
-			<span class='lh_el'>11th of January 1917</span>
+			<span class='lh_el'>11th January 1917</span>
 			<span class='lh_el'>On land</span>
 		</div>
 		<p>My darling wife</p>
 	</div><!-- end class='letter_header'-->
 <!-- --------------------------------------------------------------------------->
-<p>On Sunday 7th January we picked up nine destroyers one for each transport. It was a great sight, a sight never to be forgotten. Then there was a race for port the Marathon came first Benalla second. The last two days were very rough and bitterly cold but we thoroughly enjoy it. We arrived in Devenport Tuesday (9th January 1917) morning at 1 o'clock, up  out of bed at 4 o&rsquo;clock, breakfast at 5 o'clock and then got ready for going off. After a terrible lot of bother we got off the boat that afternoon at 2 o'clock and caught the train at 3 o'clock for Ainsbury arriving at 10:30 that night. Then we had to march 4 miles to our camp, turning into bed at 1 o'clock in the morning. My first impressions of old England are very good, what we saw of the country and towns was very fine indeed. We stopped at Exeter for about 15 minutes where refreshments were provided in bags by the towns people. In the bag was a  card which I am enclosing.Tea was also provided. It was simply lovely to be treated so cordially, we had not had anything to eat since five in the morning. All the boys greatly appreciated the good things. We are at present camped at Lark Hill, Ainsbury, (Amesbury) it is simply hell but we may only stay here a few days. Yesterday we had snow and today rain. It is that cold at present I can hardly write.</p>
+<p>On Sunday 7th January we picked up nine destroyers one for each transport. It was a great sight, a sight never to be forgotten. Then there was a race for port the Marathon came first Benalla second. The last two days were very rough and bitterly cold but we thoroughly enjoy it. We arrived in Devonport Tuesday (9th January 1917) morning at 1 o'clock, up  out of bed at 4 o&rsquo;clock, breakfast at 5 o'clock and then got ready for going off. After a terrible lot of bother we got off the boat that afternoon at 2 o'clock and caught the train at 3 o'clock for Amesbury arriving at 10:30 that night. Then we had to march 4 miles to our camp, turning into bed at 1 o'clock in the morning. My first impressions of old England are very good, what we saw of the country and towns was very fine indeed. We stopped at Exeter for about 15 minutes where refreshments were provided in bags by the towns people. In the bag was a  card which I am enclosing.Tea was also provided. It was simply lovely to be treated so cordially, we had not had anything to eat since five in the morning. All the boys greatly appreciated the good things. We are at present camped at Lark Hill, Amesbury it is simply hell but we may only stay here a few days. Yesterday we had snow and today rain. It is that cold at present I can hardly write.</p>
 
 <div class='keep-together'>
 <h3>Postcards</h3>

@@ -4,7 +4,7 @@
 
 		<div class='salutation'>
 			<span class='lh_el'>Etables sur Mer - L&rsquo;Hotel de Ville</span>
-			<span class='lh_el'>France 21st of June 1917</span>
+			<span class='lh_el'>France 21st June 1917</span>
 			<span class='lh_el'>Postcard</span>
 		</div>
 		<p>My Darling wife</p>

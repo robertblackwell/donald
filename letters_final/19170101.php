@@ -3,7 +3,7 @@
 	<div class='letter_head'>
 
 		<div class='salutation'>
-			<span class='lh_el'>2017 January 1st</span>
+			<span class='lh_el'>January 1st, 1917 </span>
 		</div>
 		<p>My Darling Wife</p>
 	</div><!-- end class='letter_header'-->

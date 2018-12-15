@@ -19,7 +19,7 @@
 
 <p>Don</p>
 
-<p>Have written to the Mater<span class='fn'>his mother</span> regarding Keith. I'm writing him tomorrow.</p>
+<p>Have written to the <?php render_mother("Mater");?> regarding Keith. I'm writing him tomorrow.</p>
 
 <p>Love to my darling love wife with xxxxxxxxxxxxxxxxxxxxx Don</p>
 </div>

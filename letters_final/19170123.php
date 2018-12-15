@@ -4,7 +4,7 @@
 
 		<div class='salutation'>
 			<span class='lh_el'>Lark Hill</span>
-			<span class='lh_el'>23rd of January 1917</span>
+			<span class='lh_el'>23rd January 1917</span>
 		</div>
 		<p>My darling wife</p>
 	</div><!-- end class='letter_header'-->

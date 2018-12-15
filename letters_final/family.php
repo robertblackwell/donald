@@ -5,7 +5,7 @@ are now 19 descendants from the marriage of Don and Neita.  </p>
 
 <h4 xstyle='font-weight:bold; color:navy; margin-bottom:0px; padding-bottom:0px'>Son of</h4> 
 <span xstyle='margin-top: 0px; padding-top:0px;'>
-Mr Edward J McDonald and Mrs Ida Marion McDonald (nee Roberts)
+Mr Edward James McDonald and Mrs Ida Marion McDonald (nee Roberts)
 </span>
 
 <h4 xstyle='font-weight:bold; color:navy; margin-bottom:0px; padding-bottom:0px'>Husband of</h4> 

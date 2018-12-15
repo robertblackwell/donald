@@ -9,6 +9,7 @@
 		<meta name="date" content="2017, 2018"/>
 	</head>
 	<body>
+		<div id="blank_page" class="frontcover">This is a test</div>
 		<div id="cover_page" class="frontcover"></div>
 		<div id="title_page" xstyle="margin-left: 0; background-color: grey;">
 			<div>
@@ -42,7 +43,8 @@
 				<li><a href="#money">Money</a></li>
 				<li><a href="#mm">Summary of Letters and Diary, by M. McGrath</a></li>
 				<li><a href="#rouen">Map of Rouen War Cemetery</a></li>
-				<li><a href="#rouen">1918 Flu Pandemic</a></li>
+				<li><a href="#grave">The Grave</a></li>
+				<li><a href="#flu">1918 Flu Pandemic</a></li>
 				<li><a href="#blacksmith">The Village Blacksmith, by Henry Longfellow</a></li>
 			</ul>
 		</div>
@@ -163,12 +165,12 @@
 					 render_letter("19170626.php");
 					 render_letter("19170701.php");
 					 render_letter("19170704.php");
-					 render_letter("191708C.php");
 					 render_letter("19170816.php");
+					 render_letter("191708C.php");
 					 render_letter("19170907C.php");
-					 render_letter("19170909A.php");
 					 render_letter("19170909.php");
 					 render_letter("19170911.php");
+					 render_letter("19170909A.php"); // not really 9th - some time in sept
 					 render_letter("19170927.php");
 					 render_letter("19171009.php");
 					 render_letter("19171015.php");
@@ -263,8 +265,13 @@
 		</div>
 
 		<div class="ch_wrap">
-			<h1 id="rouen" class="chapter">Map of Ruoen War Cemetery</h1>
+			<h1 id="rouen" class="chapter">Map of Rouen War Cemetery</h1>
 				<?php render_letter("rouen.php"); ?>
+		</div>		
+
+		<div class="ch_wrap">
+			<h1 id="grave" class="chapter">The Grave</h1>
+				<?php render_letter("grave.php"); ?>
 		</div>		
 
 		<div class="ch_wrap">

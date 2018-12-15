@@ -1,7 +1,7 @@
 <p>Donald Cameron McDonald was born in Maitland, NSW Australia on November 4th, 1888 of parents of Scots and Welsh heritage.
 He attended Maitland Boys High School and thereafter obtained an accountancy qualification and a position at a large wholesaling firm in Newcastle NSW.</p>
 
-<p>On July 1st 1916 he married Neita Sommerville Fry of "Wadhurst", Maitland. Below is the report that appeared in the the Maitland "Mercury" of the event.</p>
+<p>On July 1st 1916 he married Neita Somerville Fry of "Wadhurst", Maitland. Below is the report that appeared in the the Maitland "Mercury" of the event.</p>
 
 
 <blockquote>
@@ -39,3 +39,4 @@ Today he rests in the Imperial War Graves Cemetery near Rouen, France. </p>
 <p>Donald's grave stone (reproduced above) and The Official Australian
 Commemorative Certificate show his age as 28 but in fact Donald was just a little short of 30 years old on the day he passed away.  </p>
 
+<?php render_telegram("commem-certificate");

@@ -37,7 +37,7 @@ What do you think of the Russians. They are going to make things very unpleasant
 <p>Darling kiddie I&rsquo;ll now ring off. Love and kisses to my own dear wife and darling son from your loving hubby and daddy with scores and scores of kisses and oceans of love.</p>
 <p>Husband and father</p>
 <p>XXXXXXXXXXXXXXZXZXXXXXXXX   Don</p>
-<p>Enclosed newspaper clipping</p>
+<!-- <p>Enclosed newspaper clipping</p> -->
 </div>
 
 </div><!-- letter -->

@@ -3,7 +3,7 @@
 	<div class='letter_head'>
 
 		<div class='salutation'>
-			<span class='lh_el'>25th of December 1917</span>
+			<span class='lh_el'>25th December 1917</span>
 		</div>
 		<p>Cablegram</p>
 	</div><!-- end class='letter_header'-->

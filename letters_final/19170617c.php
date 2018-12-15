@@ -10,7 +10,7 @@
 
 
 <div class='closing'>
-<p>Here are four<span class='fn'>Other cads lost</span> postcards which will be an addition to your collection, have more but will forward them later. Wrote you yesterday. Very hot today, going for a swim shortly. I'm okay, feeling grand.
+<p>Here are four<span class='fn'>Other cards lost</span> postcards which will be an addition to your collection, have more but will forward them later. Wrote you yesterday. Very hot today, going for a swim shortly. I'm okay, feeling grand.
 Love and kisses to my dear wife from your ever loving husband. </p>
 <p>Don</p>
 

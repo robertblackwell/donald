@@ -41,7 +41,7 @@ L    I  T  T  L    E   M    A  C
 </div>
 
 <div class='keep-together'>
-<p>Fountain in the courtyard at Westminster Abbey. The two large pillars on each side of the fountain are pillars of ice. Also it saw it spraying fully in the absence of ice and snow. Far better sight than the photo indicates.</p>
+<p>Fountain in the courtyard at Westminster Abbey. The two large pillars on each side of the fountain are pillars of ice. Also I saw it spraying fully in the absence of ice and snow. Far better sight than the photo indicates.</p>
 
 <?php render_postcard("170323-P-3-fixed");?>
 </div>

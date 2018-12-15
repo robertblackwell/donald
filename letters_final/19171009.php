@@ -3,7 +3,7 @@
 	<div class='letter_head'>
 
 		<div class='salutation'>
-			<span class='lh_el'>Wet Camp</span>
+			<span class='lh_el'>Hurdcott Camp</span>
 			<span class='lh_el'>9th October 1917</span>
 		</div>
 		<p>My Darling Wife and Bonny son</p>
