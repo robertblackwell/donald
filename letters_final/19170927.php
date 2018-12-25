@@ -8,7 +8,7 @@
 	</div><!-- end class='letter_header'-->
 <!-- --------------------------------------------------------------------------->
 <div class='keep-together'>
-<p>Here are a few more cards. Having a great time. Going for a trip on the Thames today. Why can't you and dear little "Nev" be here. Never miind we will we will have a good time later on eh.
+<p>Here are a few more cards. Having a great time. Going for a trip on the Thames today. Why can't you and dear little "Nev" be here. Never mind we will we will have a good time later on eh.
 </p>
 <p>Love XXX</p>
 <p>From Hubby and Daddy</p>

@@ -19,34 +19,41 @@
 @page { @footnote { max-height: 15cm } }
 
 
-
+/** blank pages have no footer */
 @page :blank {
-  @top-center { content: "This page is intentionally left blank." }
+	/*@top-center { content: "This page is intentionally left blank." }*/
+	@bottom-left{
+		content: normal;
+	}
+	@bottom-right{
+		content: normal;
+	}
+ 
 }
 
 
 /* styles for the right hand spread
 Bottom left we display the title of the book, bottom right the page using a CSS counter, top right the content of the current chapter */
 @page:right{ 
-	 @bottom-left {
-			 margin: 10pt 0 30pt 0;
-			 border-top: .25pt solid #666;
-		 content: "To My Darling Wife";
-			 font-size: 9pt;
-			 color: #333;
-	 }
-	 @bottom-right { 
-			 margin: 10pt 0 30pt 0;
-			 border-top: .25pt solid #666;
-			 content: counter(page);
-			 font-size: 9pt;
-	 }
-	 @top-right {
-			 /*content:  string(doctitle);*/
-			 margin: 30pt 0 10pt 0;
-			 font-size: 9pt;
-			 color: #333;
-	 }
+	@bottom-left {
+		margin: 10pt 0 30pt 0;
+		border-top: .25pt solid #666;
+		content: "To My Darling Wife";
+		font-size: 9pt;
+		color: #333;
+	}
+	@bottom-right { 
+		margin: 10pt 0 30pt 0;
+		border-top: .25pt solid #666;
+		content: counter(page);
+		font-size: 9pt;
+	}
+	@top-right {
+		/*content:  string(doctitle);*/
+		margin: 30pt 0 10pt 0;
+		font-size: 9pt;
+		color: #333;
+	}
 }
 
 /* styles for the left hand spread 
@@ -148,6 +155,9 @@ div.frontcover {
 		content:normal;
 		margin: 0;
 	}	
+}
+#title_page {
+	break-before: right;
 }
 #title_page2, #title_page {
 	page: title_page;
@@ -261,7 +271,22 @@ div.frontcover {
 	counter-reset: page 1;
 	/*counter-increment: page;*/
 }
+/** a div before a chapter to ensure chapter starts on a right sided page - so far no operative **/
+@page chapter_prefix :left {
+	@bottom-left{
+		content: normal;
+	}
+}
 
+@page chapter_prefix :right {
+		@bottom-right{
+			content: normal;
+		}
+}
+
+#chapter_prefix {
+	page: chapter_prefix;
+}
 
 /* 
 * reset chapter and figure counters on the body ********************************************
@@ -278,11 +303,17 @@ body {
 * reset figure counter as figures start from 1 in each chapter 
 */
 h1 {
-		string-set: doctitle content();
-		page-break-before: always;
-		counter-reset: figurenum;
-		counter-reset: footnote;
-		line-height: 1.3;
+	string-set: doctitle content();
+	/*page-break-before: always;*/
+	break-before: right;
+	counter-reset: figurenum;
+	counter-reset: footnote;
+	line-height: 1.3;
+}
+
+.letters_chapter h1, .toc h1, #family_wrap h1 {
+	/*break-before: right;*/
+	/*background-color:red;*/
 }
 
 /* increment chapter counter */
@@ -472,4 +503,8 @@ tr  td:first-child {
 
 #preface:last-child {
 	counter-reset: page;
+}
+
+#mm {
+	font-size:20pt;
 }

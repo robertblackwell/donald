@@ -9,7 +9,7 @@
 		<meta name="date" content="2017, 2018"/>
 	</head>
 	<body>
-		<div id="blank_page" class="frontcover">This is a test</div>
+		<!-- <div id="blank_page" class="frontcover">This is a test</div> -->
 		<div id="cover_page" class="frontcover"></div>
 		<div id="title_page" xstyle="margin-left: 0; background-color: grey;">
 			<div>
@@ -34,18 +34,18 @@
 				<li><a href="#preface">Preface</a></li>
 				<li><a href="#ch1">Introduction</a></li>
 				<li><a href="#family">Donald's Family</a></li>
-				<li><a href="#ch2">Letters 1916</a></li>
-				<li><a href="#ch3">Letters 1917</a></li>
-				<li><a href="#ch4">Letters 1918</a></li>
-				<!--li><a href="#wedding">Wedding</a></li-->
-				<li><a href="#casualties">War Casualty</a></li>
-				<li><a href="#australian_camps">Australian Army Camps in Britain</a></li>
-				<li><a href="#money">Money</a></li>
-				<li><a href="#mm">Summary of Letters and Diary, by M. McGrath</a></li>
-				<li><a href="#rouen">Map of Rouen War Cemetery</a></li>
-				<li><a href="#grave">The Grave</a></li>
-				<li><a href="#flu">1918 Flu Pandemic</a></li>
-				<li><a href="#blacksmith">The Village Blacksmith, by Henry Longfellow</a></li>
+				<li><a href="#ch2">Letters from 1916</a></li>
+				<li><a href="#ch3">Letters from 1917</a></li>
+				<li><a href="#ch4">Letters from 1918</a></li>
+				<li><a href="#ch5">Letters following Don's Death</a></li>
+				<li><a href="#casualties">Apendix - War Casualty</a></li>
+				<li><a href="#australian_camps">Apendix - Australian Army Camps in Britain</a></li>
+				<li><a href="#money">Apendix - Money</a></li>
+				<li><a href="#mm">Apendix - Summary of Letters and Diary, by M. McGrath</a></li>
+				<li><a href="#rouen">Apendix - Map of Rouen War Cemetery</a></li>
+				<li><a href="#flu">Apendix - 1918 Flu Pandemic</a></li>
+				<li><a href="#blacksmith">Apendix - The Village Blacksmith, by Henry Longfellow</a></li>
+				<li><a href="#grave">Apendix - The Grave</a></li>
 			</ul>
 		</div>
 
@@ -70,8 +70,8 @@
 
 		<!--img src="images/z025.png" /-->
 
-		<div class="ch_wrap">
-			<h1 id="ch2" class="chapter">1916</h1>
+		<div class="ch_wrap letters_chapter">
+			<h1 id="ch2" class="chapter">Letters from 1916</h1>
 				<?php 
 					render_letter("19161030.php");
 					render_letter("19161114A.php");
@@ -87,7 +87,7 @@
 			<figcaption>"The Old Lady"</figcaption>
 		</figure-->
 		<div class="ch_wrap">
-			<h1 id="ch3" class="chapter">1917</h1>
+			<h1 id="ch3" class="chapter">Letters from 1917</h1>
 				<?php
 					render_letter("19170101.php");
 					render_letter("19170107.php");
@@ -203,7 +203,7 @@
 		</div>
 
 		<div class="ch_wrap">
-			<h1 id="ch4" class="chapter">1918</h1>
+			<h1 id="ch4" class="chapter">Letters from 1918</h1>
 				<?php
 					 render_letter("19180106.php");
 					 render_letter("19180111.php");
@@ -225,6 +225,14 @@
 					 render_letter("19180320.php");
 					 // render_letter("19180328.php");
 					 render_letter("19180917.php");
+					 render_letter("19181022-death.php");
+				?>
+		</div>
+
+		<div class="ch_wrap">
+			<h1 id="ch5" class="chapter">Letters following Don's Death</h1>
+				<?php
+
 					 render_letter("19181020.php");
 					 render_letter("19181022.php");
 					 render_letter("19181023.php");
@@ -260,18 +268,13 @@
 		</div>
 
 		<div class="ch_wrap">
-			<h1 id="mm" class="chapter">Summary of Letters and Diary, by Michael McGrath</h1>
+			<h1 id="mm" class="chapter">Summary of Letters and Diary by Michael McGrath</h2>
 				<?php render_letter("mm.php"); ?>
 		</div>
 
 		<div class="ch_wrap">
 			<h1 id="rouen" class="chapter">Map of Rouen War Cemetery</h1>
 				<?php render_letter("rouen.php"); ?>
-		</div>		
-
-		<div class="ch_wrap">
-			<h1 id="grave" class="chapter">The Grave</h1>
-				<?php render_letter("grave.php"); ?>
 		</div>		
 
 		<div class="ch_wrap">
@@ -282,6 +285,11 @@
 		<div class="ch_wrap">
 			<h1 id="blacksmith" class="chapter">The Village Blacksmith, by Henry Longfellow</h1>
 				<?php render_letter("village_blacksmith.php"); ?>
+		</div>		
+
+		<div class="ch_wrap">
+			<h1 id="grave" class="chapter">The Grave</h1>
+				<?php render_letter("grave.php"); ?>
 		</div>		
 
 	</body>

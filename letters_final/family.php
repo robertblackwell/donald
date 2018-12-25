@@ -1,7 +1,7 @@
 <div class='descendents'>
 
 <p>Although Donald did not survive the First World War his influence on the world continues, there
-are now 19 descendants from the marriage of Don and Neita.  </p>
+are now 20 descendants from the marriage of Don and Neita.  </p>
 
 <h4 xstyle='font-weight:bold; color:navy; margin-bottom:0px; padding-bottom:0px'>Son of</h4> 
 <span xstyle='margin-top: 0px; padding-top:0px;'>
@@ -45,6 +45,7 @@ Joshua James McKinnon,
 <br>William James McGrath,
 <br>Vincent Milton McGrath,
 <br>Scout Ivy McGrath,
-<br>Elle Reid McGrath
+<br>Elle Reid McGrath,
+<br>Gigi Yorke McGrath
 </span>
 </div>

@@ -10,7 +10,7 @@
 digitalizing them, before they were lost forever.</p> 
 
 <p>That turned out to be a sizeable task for I quickly realized that I wanted to make these documents into some form of book and that for such a purpose simply scanning the originals as a digital image would not be sufficient. Thus I set about the arduous task of reading all the documents into a speech recognition program in order to get actual text documents.
-This highly error prone task required many hours of proof reading and corrections in addition to the initial reading aloud of all the documents. I also scanned all documents as a backup and as the only way to preserve images such as the photos on the face of postcards.</p>
+This highly error prone task required many hours of proof reading and corrections in addition to the initial reading aloud of all the documents. I also scanned all documents as a backup as the only way to preserve images such as the photos on the face of postcards.</p>
 
 <p>At the end of this process I had the right raw material from which to start the process of making this book. However the process was not perfect. Don’s writing was very neat and legible, but age had made the documents difficult to read. I have done my best to record exactly what he wrote with the help of others’ eyes and magnifying glasses but sometimes a turn of phrase or word has eluded me. Where places were mentioned but spelling difficult to decipher I have checked the validity where possible.</p>
 
