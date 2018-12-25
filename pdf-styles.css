@@ -384,7 +384,9 @@ ul.toc {
 	margin: 0;
 	padding: 0;
 }
-
+ul.toc.sublist {
+	padding-left:1em;
+}
 /* create page numbers using target-counter in the TOC */
 ul.toc a::after {
 	content: leader('.') target-counter(attr(href), page);
@@ -405,6 +407,9 @@ a {
 /* add page number to cross references */
 a.xref:after {
 	content: " (page " target-counter(attr(href, url), page) ")";
+}
+li.toc_separator > a.xref:after {
+	content: "";
 }
 
 blockquote {

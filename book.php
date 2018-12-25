@@ -31,21 +31,40 @@
 			<h1>To My Darling Wife</h1>
 
 			<ul class="toc">
-				<li><a href="#preface">Preface</a></li>
-				<li><a href="#ch1">Introduction</a></li>
-				<li><a href="#family">Donald's Family</a></li>
-				<li><a href="#ch2">Letters from 1916</a></li>
-				<li><a href="#ch3">Letters from 1917</a></li>
-				<li><a href="#ch4">Letters from 1918</a></li>
-				<li><a href="#ch5">Letters following Don's Death</a></li>
-				<li><a href="#casualties">Apendix - War Casualty</a></li>
-				<li><a href="#australian_camps">Apendix - Australian Army Camps in Britain</a></li>
-				<li><a href="#money">Apendix - Money</a></li>
-				<li><a href="#mm">Apendix - Summary of Letters and Diary, by M. McGrath</a></li>
-				<li><a href="#rouen">Apendix - Map of Rouen War Cemetery</a></li>
-				<li><a href="#flu">Apendix - 1918 Flu Pandemic</a></li>
-				<li><a href="#blacksmith">Apendix - The Village Blacksmith, by Henry Longfellow</a></li>
-				<li><a href="#grave">Apendix - The Grave</a></li>
+				<li><a class="page_number" href="#preface">Preface</a></li>
+				<li><a  class="page_number" href="#ch1">Introduction</a></li>
+				<li><a  class="page_number" href="#family">Donald's Family</a></li>
+				<li><a  class="page_number" href="#ch2">Letters from 1916</a></li>
+				<li><a  class="page_number" href="#ch3">Letters from 1917</a></li>
+				<li><a  class="page_number" href="#ch4">Letters from 1918</a></li>
+				<li><a  class="page_number" href="#ch5">Letters following Don's Death</a></li>
+				<li class="toc_separator"><a href="#ch5">Apendices</a></li>
+				<li>
+					<ul class="toc sublist">
+						<li class="appendix">
+							<a  class="page_number" href="#casualties">War Casualty</a>
+						</li>
+						<li class="appendix">
+							<a  class="page_number" href="#australian_camps">Australian Army Camps in Britain</a>
+						</li>
+						<li class="appendix">
+							<a  class="page_number" href="#money">Money</a></li>
+						<li class="appendix">
+							<a  class="page_number" href="#mm">Summary of Letters and Diary, by M. McGrath</a>
+						</li>
+						<li class="appendix">
+							<a  class="page_number" href="#rouen">Map of Rouen War Cemetery</a>
+						</li>
+						<li class="appendix">
+							<a  class="page_number" href="#flu">1918 Flu Pandemic</a>
+						</li>
+						<li class="appendix">
+							<a  class="page_number" href="#blacksmith">The Village Blacksmith, by Henry Longfellow</a>
+						</li>
+						<li class="appendix">
+							<a  class="page_number" href="#grave">The Grave</a>
+						</li>
+					</ul>
 			</ul>
 		</div>
 
