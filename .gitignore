@@ -1,0 +1,7 @@
+
+# OSX
+#
+.DS_Store
+
+book.pdf
+php/vendor/
